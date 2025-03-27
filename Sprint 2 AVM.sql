@@ -10,20 +10,10 @@ from company
 
 # º Desde cuántos países se realizan las compras.
 
-select count(distinct c.country) as paisesQueRealizanCompras
+select count(distinct c.country) as Compras_Paises
 from company c
 ;
 
-
-
-select t.amount, count(c.country) as paises
-from company c
-join transaction t
-on c.id = t.company_id
-where t.declined = 0
-group by t.amount
-order by 2 desc
-;
 --
 
 # º Identifica a la compañía con la mayor media de ventas.
@@ -61,8 +51,7 @@ select company_name
 from company
 where id in (select t.company_id 
 			from transaction t
-			where t.amount > (select avg(t2.amount) from transaction t2)
-)
+			where t.amount > (select avg(t2.amount) from transaction t2))
 ;
 --
 
@@ -74,21 +63,18 @@ where c.id in (select t.company_id
 				where t.company_id is null)
 ;
 --
-
 select *
 from transaction t
 where t.company_id not in (select c.id
 							from company c)
-                            ;
-
-
+;
 --
 # Nivel 2
 # Ejercicio 1
 # Identifica los cinco días que se generó la mayor cantidad de ingresos en la empresa por ventas. 
 # Muestra la fecha de cada transacción junto con el total de las ventas.
 
-select date(t.timestamp) as date, sum(t.amount) as totalVentas
+select date(t.timestamp) as date, sum(t.amount) as total_Ventas
 from transaction t
 where t.declined = 0
 group by 1
@@ -100,7 +86,7 @@ limit 5
 # Ejercicio 2
 # ¿Cuál es la media de ventas por país? Presenta los resultados ordenados de mayor a menor medio.
 
-select country, round(avg(amount),2) as mediaVentas
+select country, round(avg(amount),2) as media_Ventas
 from company c
 join transaction t
 on c.id = t.company_id
@@ -135,15 +121,6 @@ where c.country=(select c2.country
 				where c2.company_name = 'Non Institute'
                 and c.company_name <> 'Non Institute')
 ;
-
-select id
-from company c2
-where c2.company_name = 'Non Institute'
-;
-
-select *
-from company
-;
 --
 
 # Muestra el listado aplicando solo subconsultas.
@@ -156,19 +133,9 @@ where t.company_id in (select c.id
 							from company c3
 							where c3.company_name = 'Non Institute')
 				and c.company_name <> 'Non Institute')
-				;
---
-
-select t.id as transactionID, t.company_id, user_id, t.timestamp, t.amount, t.declined, c.country, c.company_name
-from company c, transaction t
-where c.id = t.company_id
-and c.country =(select c2.country
-				from company c2
-				where c2.company_name = 'Non Institute')
-and c.company_name <> 'Non Institute'
 ;
 --
---
+
 # Nivel 3
 # Ejercicio 1
 #Presenta el nombre, teléfono, país, fecha y amount, de aquellas empresas que realizaron transacciones con un valor comprendido entre 
@@ -201,18 +168,5 @@ join transaction t
 on c.id = t.company_id
 group by c.company_name
 order by 2 desc
-;
---
-
-select c.company_name,
-case 
-	when count(t.id) > 4 then 'Más de cuatro transacciones'
-    else 'Menos de cuatro transacciones'
-    end as listadoTransacciones
-
-from transaction t, company c
-where c.id = t.company_id
-group by c.company_name
-order by listadoTransacciones asc
 ;
 --
