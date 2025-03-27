@@ -39,8 +39,16 @@ limit 1
 --
 
 # Ejercicio 3
-# º Muestra todas las transacciones realizadas por empresas de Alemania.
+# º Muestra todas las transacciones realizadas por empresas de Alemania. SIN USAR JOIN, solo SQ
 
+select t.*
+from transaction t
+where t.company_id in (select id
+					from company c
+                    where c.country = 'Germany')
+;
+
+--
 select *
 from transaction t, company c
 where c.country = 'Germany'
@@ -51,24 +59,29 @@ and c.id = t.company_id
 # º Lista las empresas que han realizado transacciones por un amount superior a la media de todas las transacciones.
 select company_name
 from company
-where id in (select company_id 
-			from transaction
-			where amount > (select avg(amount) from transaction 
-								)
+where id in (select t.company_id 
+			from transaction t
+			where t.amount > (select avg(t2.amount) from transaction t2)
 )
 ;
 --
 
 # Eliminarán del sistema las empresas que carecen de transacciones registradas, entrega el listado de estas empresas.
-hay que hacer con subquerie
-
 select *
 from company c
-right join transaction t
-on c.id = t.company_id
-where t.id is null
+where c.id in (select t.company_id
+				from transaction t
+				where t.company_id is null)
 ;
 --
+
+select *
+from transaction t
+where t.company_id not in (select c.id
+							from company c)
+                            ;
+
+
 --
 # Nivel 2
 # Ejercicio 1
@@ -112,6 +125,16 @@ where c.country=(select c2.country
 				where c2.company_name = 'Non Institute'
                 and c.company_name <> 'Non Institute')
 ;
+--
+select t.*
+from company c
+join transaction t
+on t.company_id = c.id
+where c.country=(select c2.country
+				from company c2
+				where c2.company_name = 'Non Institute'
+                and c.company_name <> 'Non Institute')
+;
 
 select id
 from company c2
@@ -124,6 +147,17 @@ from company
 --
 
 # Muestra el listado aplicando solo subconsultas.
+
+select *
+from transaction t
+where t.company_id in (select c.id
+				from company c
+				where c.country = (select c3.country
+							from company c3
+							where c3.company_name = 'Non Institute')
+				and c.company_name <> 'Non Institute')
+				;
+--
 
 select t.id as transactionID, t.company_id, user_id, t.timestamp, t.amount, t.declined, c.country, c.company_name
 from company c, transaction t
@@ -147,6 +181,7 @@ join transaction t
 on c.id = t.company_id
 where date(t.timestamp) in ( '2021-04-29', '2021-07-20', '2022-03-13')
 and t.amount between 100 and 200
+order by t.amount desc
 ;
 --
 
@@ -155,6 +190,19 @@ and t.amount between 100 and 200
 #por lo que te piden la información sobre la cantidad de transacciones que realizan las empresas, 
 #pero el departamento de recursos humanos es exigente y quiere un listado de las empresas en las que especifiques 
 #si tienen más de 4 transacciones o menos.
+
+select c.company_name, count(t.amount) as transactionsAmount,
+case 
+	when count(t.id) > 4 then 'Más de cuatro transacciones'
+    else 'Menos de cuatro transacciones'
+    end as listadoTransacciones
+from company c
+join transaction t
+on c.id = t.company_id
+group by c.company_name
+order by 2 desc
+;
+--
 
 select c.company_name,
 case 
@@ -168,16 +216,3 @@ group by c.company_name
 order by listadoTransacciones asc
 ;
 --
-
-select c.company_name, count(t.amount) as transactionsAmount
-from company c
-join transaction t
-on c.id = t.company_id
-group by c.company_name
-having count(t.amount) > 4 
-order by 2 desc
-;
-
-select company_name, listadoTransacciones(t.amount)
-from transaction
-;
