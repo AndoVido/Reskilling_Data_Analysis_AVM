@@ -56,17 +56,12 @@ where id in (select t.company_id
 --
 
 # Eliminarán del sistema las empresas que carecen de transacciones registradas, entrega el listado de estas empresas.
-select *
-from company c
-where c.id in (select t.company_id
-				from transaction t
-				where t.company_id is null)
-;
---
+
 select *
 from transaction t
-where t.company_id not in (select c.id
-							from company c)
+where t.company_id in (select c.id
+							from company c
+                            where c.id is null)
 ;
 --
 # Nivel 2
@@ -78,7 +73,7 @@ select date(t.timestamp) as date, sum(t.amount) as total_Ventas
 from transaction t
 where t.declined = 0
 group by 1
-order by totalVentas DESC
+order by total_Ventas DESC
 limit 5
 ;
 --
