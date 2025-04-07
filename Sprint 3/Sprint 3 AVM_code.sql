@@ -239,6 +239,20 @@ alter table transaction
 add constraint fk_user
 foreign key (user_id)
 references user (id);
+
+# cambiamos nombre de la tabla user a data_user
+rename table `user` to `data_user`;
+
+# cambiamos nombre de columna email a personal_email
+alter table data_user change email
+personal_email varchar(150);
+
+
+
+
+
+
+
 --
 
 
