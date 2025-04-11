@@ -461,3 +461,19 @@ select count(*) as 'tarjetas Activas'
 from estado_tarjetas et
 where et.estado = 'Activa'
 ;
+
+--
+
+# Nivel 3
+# Ejercicio 1
+# Necesitamos conocer el número de veces que se ha vendido cada producto.
+
+select p.id as 'ID del producto', p.product_name as 'Nombre del producto', count(t.id) as 'Cantidad en transacciones'
+from products_in_transactions pt
+join products p
+on pt.product_id = p.id
+join transactions t
+on t.product_ids = p.id
+group by p.id, p.product_name
+order by 3 desc
+;
