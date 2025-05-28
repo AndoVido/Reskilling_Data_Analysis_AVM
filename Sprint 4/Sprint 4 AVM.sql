@@ -444,8 +444,8 @@ from transactions t
 
 # creamos una tabla con la nueva vista que tiene las transactions ordenadas por fecha como base
 
-create table if not exists estado_tarjetas (
-select cr.card_id,cc.iban,
+create table if not exists estado_tarjetas2 (
+select distinct cr.card_id,cc.iban,
 case
 	when cr.declined = 1 then 'Inactiva'
     else 'Activa'
@@ -468,12 +468,13 @@ where et.estado = 'Activa'
 # Ejercicio 1
 # Necesitamos conocer el número de veces que se ha vendido cada producto.
 
-select p.id as 'ID del producto', p.product_name as 'Nombre del producto', count(t.id) as 'Cantidad en transacciones'
+select pt.product_id as 'ID del producto', p.product_name as 'Nombre del producto', count(distinct pt.transaction_id) as 'Cantidad en transacciones'
 from products_in_transactions pt
-join products p
-on pt.product_id = p.id
-join transactions t
-on t.product_ids = p.id
-group by p.id, p.product_name
+	join products p
+		on pt.product_id = p.id
+	join transactions t
+		on t.id = pt.transaction_id
+where t.declined = 0
+group by pt.product_id
 order by 3 desc
 ;
