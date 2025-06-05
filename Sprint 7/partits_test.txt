@@ -1,0 +1,15 @@
+Barça	2-1	Madrid
+Madrid	1-1	Sevilla
+Sevilla	0-3	Barça
+Barça	1-2	Betis
+Betis	0-0	Madrid
+Sevilla	2-0	Betis
+Madrid	3-1	Barça
+Betis	1-1	Sevilla
+Barça	4-2	Sevilla
+Madrid	2-2	Betis
+Sevilla	1-0	Madrid
+Betis	2-3	Barça
+Sevilla	2-2	Barça
+Madrid	1-0	Betis
+Betis	1-1	Barça
