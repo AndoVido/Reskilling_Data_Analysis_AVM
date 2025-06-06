@@ -1,6 +1,5 @@
 import numpy
 import string
-import pyperclip
 
 # Generador de contraseñas aleatorias
 def generador_contrasenyes(longitud = 15, usar_mayusculas = True, usar_numeros = True, usar_simbolos = False):
