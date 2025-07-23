@@ -1,5 +1,7 @@
 import numpy
 import string
+import pyperclip
+import streamlit as st
 
 # Generador de contraseñas aleatorias
 def generador_contrasenyes(longitud = 15, usar_mayusculas = True, usar_numeros = True, usar_simbolos = False):
@@ -44,3 +46,19 @@ def generador_contrasenyes(longitud = 15, usar_mayusculas = True, usar_numeros =
     pyperclip.copy("".join(contrasenye))
     print("La contraseña ha sido copiada al portapapeles.")
     return "".join(contrasenye) 
+
+# Interfaz Streamlit
+st.title("🔐 Generador de Contraseñas Seguras")
+
+longitud = st.slider("Longitud de la contraseña", 4, 50, 15)
+usar_mayusculas = st.checkbox("Incluir mayúsculas", True)
+usar_numeros = st.checkbox("Incluir números", True)
+usar_simbolos = st.checkbox("Incluir símbolos", False)
+
+if st.button("Generar contraseña"):
+    try:
+        password = generador_contrasenyes(longitud, usar_mayusculas, usar_numeros, usar_simbolos)
+        st.success("Contraseña generada y copiada al portapapeles:")
+        st.code(password, language="text")
+    except Exception as e:
+        st.error(f"Error: {e}")

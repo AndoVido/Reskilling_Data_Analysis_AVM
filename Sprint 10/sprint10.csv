@@ -1,0 +1,1001 @@
+Nom,Cognoms,DNI,País d'origen,Ciutat,Dia de Naixement,Mes de Naixement,Any de Naixement,Gènere,Salari mensual,Fills,No Fills,Grup Professional
+Inês,Ferreira Silva,16928694K,Portugal,Lisboa,25,2,1953,D,1.144 €,,True,Grup B
+Clara,Sánchez Martínez,27724652S,Espanya,Barcelona,18,3,1996,D,1.253 €,True,,Grup A
+Fatima,Fassi,38141675A,Marroc,Rabat,6,11,2005,A,1.441 €,True,,Grup A
+Khadija,Bennani Bennani,59157262R,Marroc,Rabat,20,1,1995,D,1.944 €,,True,Grup B
+Toni,Sánchez García,69630528M,Espanya,Barcelona,9,8,1999,H,1.043 €,,True,Grup A
+Laia,Castells Ferrer,26930927E,Espanya,Madrid,16,12,1953,A,2.611 €,,True,Grup D
+Carla,García,78247593G,Espanya,València,24,12,1957,D,942 €,,True,Grup A
+Marco,Rossi,21774231J,Itàlia,Torí,3,11,2002,A,1.494 €,,True,Grup A
+Alessia,Rossi,87316866D,Itàlia,Milà,6,12,1989,D,1.366 €,,True,Grup A
+Toni,Martínez,14219925Z,Espanya,Barcelona,16,5,1964,H,891 €,,True,Grup A
+Oriol,Sánchez,40695825B,Espanya,Barcelona,27,7,1965,H,1.250 €,,True,Grup A
+Marta,Martínez Martínez,96880751H,Espanya,Bilbao,23,8,1995,NC,2.007 €,,True,Grup C
+Jean,Dubois,66129686T,França,Marsella,16,12,1964,H,1.593 €,True,,Grup A
+Toni,Castells Romero,74222289K,Espanya,Barcelona,13,4,1961,H,1.438 €,,True,Grup B
+Eva,Castells,83982081H,Espanya,Sevilla,3,5,1968,NC,1.247 €,True,,Grup A
+Marta,Romero,33234964B,Espanya,Madrid,10,5,2001,D,2.810 €,True,,Grup D
+Camila,Hernández Ramírez,86981189A,Mèxic,Guadalajara,17,12,1996,D,1.170 €,True,,Grup A
+Núria,Castells,13107162J,Espanya,Barcelona,2,7,2005,D,1.344 €,True,,Grup A
+Núria,García López,22021087Z,Espanya,Madrid,8,6,1969,D,1.374 €,,True,Grup B
+Joan,López,87645157V,Espanya,Sevilla,13,10,1964,H,2.605 €,True,,Grup C
+Toni,Castells Martínez,29801291B,Espanya,Barcelona,10,1,1981,H,2.102 €,True,,Grup B
+Mia,Schneider Fischer,28973553Z,Alemanya,Berlín,22,10,1976,A,951 €,,True,Grup A
+Laia,Martínez Sánchez,98967015K,Espanya,Madrid,14,6,1961,D,2.596 €,,True,Grup D
+Miguel,Oliveira Pereira,23837247D,Portugal,Lisboa,19,9,1978,H,2.249 €,,True,Grup C
+Chloé,Lefevre,83874145K,França,Marsella,10,9,1973,D,1.901 €,True,,Grup B
+Clara,Ferrer,58465525T,Espanya,Madrid,17,7,1990,D,2.679 €,,True,Grup D
+Marc,Romero Martínez,17029292R,Espanya,Bilbao,4,7,1993,H,2.027 €,True,,Grup B
+Eva,Castells,43855905B,Espanya,Madrid,1,12,1965,D,879 €,,True,Grup A
+Oriol,López Martínez,89977538X,Espanya,Barcelona,25,6,1952,H,1.019 €,True,,Grup A
+Tomás,Rodríguez Fernández,24894099R,Argentina,Còrdova,20,4,1986,H,2.584 €,True,,Grup C
+Núria,Ferrer Romero,47103299Z,Espanya,València,6,2,2003,NC,1.256 €,,True,Grup A
+Oriol,López Ferrer,59690898N,Espanya,Barcelona,3,11,1969,H,1.498 €,True,,Grup B
+Toni,Martínez Castells,60170471X,Espanya,Sevilla,20,4,1952,A,2.129 €,,True,Grup B
+Matías,Gómez Álvarez,18876645B,Argentina,Buenos Aires,4,12,1955,H,1.313 €,,True,Grup A
+Jordi,Sánchez,48870261R,Espanya,Bilbao,16,8,1962,H,742 €,,True,Grup A
+Isla,Jones,37846341L,Regne Unit,Manchester,26,6,1985,D,1.412 €,True,,Grup B
+Jordi,Romero,67466708W,Espanya,Barcelona,27,8,1968,H,808 €,,True,Grup A
+Eva,Ferrer Martínez,33445957H,Espanya,Sevilla,4,5,1960,D,1.421 €,,True,Grup B
+Carla,García,95012750D,Espanya,Sevilla,17,5,1952,D,963 €,True,,Grup A
+Marc,Ferrer Ferrer,96482330F,Espanya,Bilbao,20,3,1974,H,1.550 €,True,,Grup B
+Toni,López Sánchez,42754306Q,Espanya,Barcelona,25,2,1975,H,990 €,,True,Grup A
+Anna,Martínez Martínez,17856143W,Espanya,Bilbao,26,9,1972,D,780 €,,True,Grup A
+Núria,Castells,52684613F,Espanya,Bilbao,14,11,1960,NC,2.800 €,True,,Grup C
+Toni,Martínez,38605068P,Espanya,Sevilla,24,7,1982,H,1.515 €,True,,Grup A
+Pau,Martínez,90731738C,Espanya,Madrid,17,8,1999,H,1.971 €,,True,Grup B
+Giulia,Conti,45888164B,Itàlia,Roma,8,7,1998,D,1.968 €,True,,Grup B
+Anna,Sánchez,89187959Z,Espanya,Sevilla,21,10,1955,D,1.304 €,,True,Grup B
+Pau,Ferrer,17851044J,Espanya,Bilbao,25,4,1957,H,1.319 €,True,,Grup B
+Tomás,Fernández Álvarez,13327616P,Argentina,Còrdova,8,9,1958,H,2.481 €,,True,Grup C
+Toni,Sánchez García,71226479A,Espanya,Bilbao,28,2,2000,H,1.381 €,,True,Grup A
+Marta,López,10911456V,Espanya,Sevilla,6,6,1954,D,1.484 €,,True,Grup A
+Joan,López,58027402M,Espanya,Madrid,5,3,1957,H,967 €,,True,Grup A
+Eva,Ferrer,29075001G,Espanya,Madrid,27,1,1974,D,1.001 €,,True,Grup A
+Joan,López,75145716V,Espanya,València,1,2,1952,H,1.502 €,,True,Grup A
+Eva,López,16587202X,Espanya,Bilbao,16,12,1974,D,1.963 €,,True,Grup B
+Laia,López,32306507M,Espanya,Madrid,11,7,1964,NC,2.063 €,True,,Grup C
+Pau,Sánchez,69153285Z,Espanya,Madrid,8,10,2001,H,2.091 €,,True,Grup C
+Toni,Martínez,61151031X,Espanya,València,12,9,1992,H,2.549 €,True,,Grup C
+Andrés,González,43485739Q,Mèxic,Guadalajara,26,2,1992,H,2.279 €,True,,Grup B
+Oriol,García,83083855T,Espanya,València,12,6,2002,H,1.288 €,True,,Grup A
+José,Ramírez Hernández,53037156T,Mèxic,Guadalajara,11,6,1966,H,1.929 €,,True,Grup C
+Jordi,Sánchez,66876326G,Espanya,València,19,6,1984,H,1.243 €,True,,Grup A
+Clara,Sánchez López,32384138R,Espanya,València,27,7,1955,D,2.013 €,True,,Grup B
+Anna,Castells Romero,27772301M,Espanya,València,25,8,1978,D,1.672 €,,True,Grup B
+Eva,Sánchez,44988676P,Espanya,Bilbao,10,1,1977,D,1.887 €,,True,Grup B
+Miguel,González,55802716W,Mèxic,Ciutat de Mèxic,22,3,2002,H,1.531 €,,True,Grup A
+Joan,Ferrer,58904747N,Espanya,Bilbao,13,11,1994,H,1.521 €,,True,Grup B
+Núria,Martínez,86310227T,Espanya,Madrid,19,3,1986,D,1.405 €,,True,Grup A
+Michel,Lefevre,89245220G,França,París,21,8,1974,H,2.661 €,,True,Grup D
+Valentina,Torres Torres,79942683D,Colòmbia,Medellín,24,7,1951,NC,1.252 €,,True,Grup A
+Marc,Martínez,32447081S,Espanya,Sevilla,1,8,1977,H,3.040 €,,True,Grup D
+Lea,Schneider,79911049R,Alemanya,Munic,22,9,1950,D,2.668 €,True,,Grup D
+Joan,Castells,17393705Z,Espanya,Barcelona,10,12,1975,H,1.667 €,True,,Grup A
+Anna,Martínez Martínez,94678339J,Espanya,Sevilla,10,4,1985,D,1.333 €,,True,Grup A
+Marta,Ferrer López,39421964W,Espanya,Sevilla,19,7,1969,NC,2.423 €,,True,Grup C
+Michel,Moreau,82819660N,França,Lió,2,5,1970,H,810 €,,True,Grup A
+Anna,Sánchez García,63852668M,Espanya,Sevilla,13,7,1993,D,1.452 €,,True,Grup B
+Anna,Ferrer Sánchez,98082914F,Espanya,Bilbao,21,10,1982,D,1.323 €,,True,Grup A
+Khadija,Fassi,57230838V,Marroc,Rabat,10,5,1970,D,1.422 €,,True,Grup B
+Clara,García,96108474K,Espanya,Sevilla,10,3,1955,D,809 €,,True,Grup A
+Laia,Castells,31532532F,Espanya,Bilbao,19,4,1950,D,2.448 €,,True,Grup D
+Valentina,Gutiérrez Castro,96617848Y,Colòmbia,Bogotà,2,1,2001,A,1.064 €,,True,Grup A
+Marc,García,41282325G,Espanya,Madrid,19,10,1955,H,2.176 €,True,,Grup C
+Arnau,Sánchez López,14944003P,Espanya,Barcelona,28,6,1960,H,1.116 €,,True,Grup A
+Daniela,Castro Castro,34050427S,Colòmbia,Medellín,25,12,1980,D,1.167 €,,True,Grup A
+Clara,Sánchez,64134967K,Espanya,Bilbao,1,10,1965,D,817 €,True,,Grup A
+Marta,Romero,23876940J,Espanya,València,25,11,2002,D,1.258 €,,True,Grup B
+Eva,Sánchez,17081236L,Espanya,Madrid,9,9,1992,D,2.885 €,True,,Grup D
+Marc,Sánchez López,90370999E,Espanya,Bilbao,6,8,1990,H,1.987 €,,True,Grup C
+Youssef,Bennani,98288475Z,Marroc,Casablanca,20,9,1957,H,780 €,True,,Grup A
+Eva,Martínez,80981912X,Espanya,Barcelona,11,9,1974,D,783 €,,True,Grup A
+Sophie,Taylor,49728917R,Regne Unit,Londres,27,2,1983,D,1.469 €,,True,Grup A
+Mohamed,Zahraoui,64074954W,Marroc,Rabat,18,11,1950,H,1.496 €,,True,Grup A
+Anna,Castells,31039740J,Espanya,Bilbao,20,3,1987,D,1.381 €,,True,Grup A
+Pau,Romero Romero,82284855A,Espanya,Madrid,6,12,1988,H,2.722 €,,True,Grup C
+Núria,Romero,45581974X,Espanya,Madrid,26,10,1993,D,1.352 €,True,,Grup B
+Joan,Romero Romero,76740096F,Espanya,Barcelona,21,2,1999,H,1.543 €,True,,Grup A
+Arnau,García,91110497A,Espanya,València,2,1,1954,H,2.126 €,,True,Grup B
+Anna,Sánchez,42373200J,Espanya,Barcelona,17,7,1984,A,1.438 €,True,,Grup A
+Carla,Martínez,97855153L,Espanya,Madrid,21,3,1973,D,2.850 €,,True,Grup D
+Tiago,Ferreira,91877877E,Portugal,Porto,22,11,1993,H,1.246 €,True,,Grup A
+Eva,Romero,92828803F,Espanya,València,16,4,1985,D,1.077 €,True,,Grup A
+Sophie,Brown,30477300W,Regne Unit,Londres,12,5,1956,D,1.532 €,,True,Grup C
+Felipe,Torres,24213568B,Colòmbia,Bogotà,19,3,1970,H,1.240 €,True,,Grup A
+Laia,Martínez Ferrer,69934163X,Espanya,Bilbao,19,10,1956,D,981 €,True,,Grup A
+Marta,Sánchez,48108194K,Espanya,Bilbao,1,9,1972,D,1.154 €,,True,Grup A
+Pau,López Martínez,35957209T,Espanya,València,1,1,1988,H,2.805 €,,True,Grup C
+Toni,Romero,36035835A,Espanya,València,26,11,1991,H,1.377 €,True,,Grup A
+Núria,Ferrer,25463106V,Espanya,Barcelona,18,4,1957,NC,1.396 €,True,,Grup A
+Toni,Ferrer,80887497Q,Espanya,Barcelona,12,4,1985,H,2.639 €,,True,Grup C
+Marc,Ferrer Castells,89652804F,Espanya,Barcelona,25,8,2002,H,1.672 €,,True,Grup A
+Núria,López,90181637T,Espanya,Bilbao,1,1,1973,D,1.667 €,True,,Grup B
+Toni,García,85738042R,Espanya,Bilbao,28,10,1998,H,2.714 €,True,,Grup C
+Olivia,Jones Brown,98761038G,Regne Unit,Londres,20,1,1965,A,2.460 €,True,,Grup C
+Toni,Castells,82953871E,Espanya,València,1,4,1963,H,1.764 €,True,,Grup B
+Arnau,Sánchez García,58847232T,Espanya,València,24,2,1978,H,3.283 €,,True,Grup D
+Arnau,Castells Castells,60585845J,Espanya,Madrid,7,11,1963,H,2.157 €,,True,Grup C
+Toni,Ferrer,42278299Y,Espanya,Madrid,19,8,1967,H,1.563 €,,True,Grup A
+Pau,Ferrer,35072309W,Espanya,Bilbao,6,8,1964,H,1.156 €,,True,Grup A
+Arnau,Romero,98253101W,Espanya,Madrid,26,6,1985,H,2.736 €,,True,Grup C
+Marc,García,85696755S,Espanya,Barcelona,23,7,1998,H,1.341 €,True,,Grup A
+Gabriela,González,57340670Z,Mèxic,Ciutat de Mèxic,17,6,1955,D,1.612 €,True,,Grup B
+Joan,Sánchez,45293682M,Espanya,Sevilla,5,8,1988,H,1.072 €,True,,Grup A
+Clara,Castells García,68948799D,Espanya,Bilbao,11,1,1964,D,1.100 €,True,,Grup A
+Marta,Romero,22972474K,Espanya,València,3,12,1958,D,1.532 €,,True,Grup C
+Oriol,Martínez,18522481J,Espanya,Madrid,18,1,1994,H,1.505 €,,True,Grup A
+Anna,Müller,23128433S,Alemanya,Munic,18,3,1956,D,1.280 €,,True,Grup A
+Núria,Castells Sánchez,43378401L,Espanya,Sevilla,26,3,1975,D,665 €,,True,Grup A
+Pau,Ferrer,77333333Q,Espanya,Sevilla,1,1,1999,H,1.538 €,,True,Grup A
+Tiago,Silva Pereira,62356732M,Portugal,Porto,24,3,1980,H,1.431 €,,True,Grup A
+Marc,García Ferrer,78286678X,Espanya,València,16,8,1998,H,1.193 €,,True,Grup A
+Pau,Sánchez,21762997G,Espanya,Barcelona,13,3,1962,H,1.473 €,,True,Grup B
+Pau,Castells,57021851P,Espanya,Sevilla,23,3,1978,H,819 €,,True,Grup A
+Jean,Lefevre,76101195A,França,Marsella,8,10,1959,H,780 €,,True,Grup A
+Laia,Sánchez Castells,53012171X,Espanya,Barcelona,21,11,1970,D,2.057 €,True,,Grup B
+Toni,Castells,41156735G,Espanya,Bilbao,7,6,1990,H,1.674 €,,True,Grup B
+Joan,García,63688361W,Espanya,Barcelona,24,12,1957,H,1.558 €,True,,Grup A
+Valentina,Castro,58619725P,Colòmbia,Bogotà,2,9,1951,D,2.597 €,True,,Grup C
+Chloé,Girard,12234836K,França,Marsella,17,4,1977,D,1.985 €,True,,Grup B
+Anna,Castells Martínez,99521295N,Espanya,València,3,4,1991,D,1.414 €,,True,Grup B
+Pau,Romero Castells,96178808S,Espanya,Madrid,14,7,1996,H,1.552 €,True,,Grup A
+Giulia,Russo Conti,98226417L,Itàlia,Milà,25,2,1971,D,1.044 €,,True,Grup A
+Clara,Sánchez Castells,99620931S,Espanya,València,19,3,1972,D,1.156 €,,True,Grup A
+Marc,García Romero,65405375Z,Espanya,Sevilla,2,1,1982,H,1.126 €,,True,Grup A
+Jordi,Castells Ferrer,10674532Q,Espanya,Bilbao,23,2,1979,H,1.219 €,,True,Grup A
+Laia,Castells,55464877X,Espanya,Sevilla,6,10,1992,NC,1.471 €,,True,Grup A
+Eva,Castells García,25710763B,Espanya,Bilbao,18,3,1993,D,2.628 €,,True,Grup C
+Núria,Sánchez Castells,58966169Z,Espanya,Madrid,12,5,1981,NC,2.742 €,,True,Grup D
+Clara,Romero,76564295Y,Espanya,Madrid,5,12,1986,D,2.543 €,,True,Grup C
+Oriol,García,30574341W,Espanya,Madrid,8,3,1954,A,1.562 €,,True,Grup A
+Marc,Martínez Martínez,97566754L,Espanya,Barcelona,6,4,2001,NC,1.105 €,True,,Grup A
+Gabriela,Ramírez González,32044922L,Mèxic,Ciutat de Mèxic,7,5,1980,D,2.356 €,,True,Grup C
+Eva,Ferrer,54607036B,Espanya,Sevilla,24,1,1967,D,809 €,,True,Grup A
+Toni,Romero,27007812G,Espanya,Barcelona,9,12,1989,H,1.659 €,True,,Grup A
+Laura,Schneider Fischer,37399141L,Alemanya,Berlín,2,2,1958,D,1.769 €,True,,Grup B
+Jordi,Ferrer Martínez,20733024B,Espanya,Sevilla,26,1,1970,H,1.464 €,True,,Grup A
+Oriol,López,15110846Z,Espanya,València,27,6,2002,H,1.308 €,,True,Grup B
+Núria,García Ferrer,83165476Y,Espanya,Sevilla,17,6,1957,A,1.240 €,,True,Grup B
+Pau,Sánchez,53967981Q,Espanya,Madrid,1,12,1982,A,854 €,,True,Grup A
+Daniel,Gutiérrez Castro,28967396E,Colòmbia,Medellín,4,5,1976,H,1.456 €,,True,Grup B
+Carla,Castells García,52195959W,Espanya,Bilbao,7,1,1994,D,1.294 €,,True,Grup A
+Jordi,Ferrer,47304350Y,Espanya,València,21,6,1967,H,1.330 €,True,,Grup B
+Alessandro,Russo Ferrari,93759961P,Itàlia,Roma,13,8,1965,H,940 €,,True,Grup A
+Michel,Lefevre,45820844F,França,Lió,14,1,1985,H,821 €,True,,Grup A
+Salma,Zahraoui El Amrani,89715580M,Marroc,Rabat,28,9,1950,D,1.141 €,,True,Grup A
+Pau,López Martínez,54585678Q,Espanya,Bilbao,22,5,1967,H,2.125 €,True,,Grup B
+Joan,Romero,42625930X,Espanya,Bilbao,15,11,1987,H,1.528 €,,True,Grup B
+Oriol,Sánchez Sánchez,44075059L,Espanya,Bilbao,17,3,2002,H,1.815 €,True,,Grup B
+Núria,Sánchez,14065699S,Espanya,Sevilla,2,11,1991,D,1.027 €,,True,Grup A
+Eva,Castells,13695774G,Espanya,Madrid,20,11,1957,D,1.377 €,,True,Grup A
+Marta,Castells Ferrer,24435321M,Espanya,Sevilla,15,3,1981,D,1.872 €,True,,Grup B
+Pau,Ferrer López,12499600L,Espanya,Bilbao,22,11,1960,H,2.570 €,True,,Grup C
+Sofia,Oliveira,68455541R,Portugal,Porto,5,7,1952,D,1.413 €,,True,Grup B
+Carla,López Ferrer,81229041Z,Espanya,Sevilla,4,9,1962,D,2.861 €,,True,Grup D
+Marc,Martínez Ferrer,15812105B,Espanya,Madrid,14,7,1971,A,1.199 €,,True,Grup A
+Eva,Martínez,12763903J,Espanya,Madrid,19,10,1974,NC,2.015 €,,True,Grup B
+Toni,García,87744901Q,Espanya,Bilbao,20,9,1990,H,1.698 €,,True,Grup B
+Amina,Bennani,99258742G,Marroc,Casablanca,22,10,2004,D,2.948 €,True,,Grup D
+Oriol,Sánchez Martínez,28996393T,Espanya,Sevilla,5,1,1981,H,1.941 €,,True,Grup B
+Anna,Ferrer,55395479J,Espanya,València,6,10,1984,D,1.531 €,True,,Grup B
+Jordi,Sánchez,33484869X,Espanya,Barcelona,6,6,1981,H,2.756 €,,True,Grup D
+Pau,Martínez López,88845881E,Espanya,Madrid,3,11,2000,H,2.785 €,True,,Grup D
+Marta,Ferrer,68523497H,Espanya,Madrid,6,10,1986,D,1.280 €,,True,Grup A
+Matías,Gómez Gómez,33939128K,Argentina,Còrdova,18,8,2002,H,2.080 €,True,,Grup B
+Jean,Girard Moreau,28394981G,França,París,26,9,1991,NC,1.573 €,True,,Grup B
+Clara,Martínez,13453262F,Espanya,Sevilla,4,7,2001,D,2.526 €,True,,Grup C
+Marta,Martínez Castells,96105165A,Espanya,Barcelona,16,7,1977,D,2.452 €,True,,Grup C
+Pau,Martínez,83703395A,Espanya,Madrid,14,2,1959,H,2.100 €,,True,Grup B
+Oriol,García Castells,85011730B,Espanya,Barcelona,18,6,1955,H,1.212 €,,True,Grup A
+Arnau,Ferrer Sánchez,26724488C,Espanya,Sevilla,3,5,1994,H,1.079 €,,True,Grup A
+Louis,Moreau,76202240S,França,Lió,13,2,1974,H,1.664 €,True,,Grup A
+Eva,Romero Ferrer,73749390X,Espanya,València,7,12,1965,D,1.861 €,,True,Grup B
+Clara,Ferrer,85141625T,Espanya,Sevilla,21,12,1999,A,2.393 €,True,,Grup C
+Eva,Castells,42823610D,Espanya,Madrid,9,7,1956,D,1.669 €,True,,Grup B
+Oriol,Martínez Martínez,59073585L,Espanya,Sevilla,14,6,1991,NC,1.122 €,True,,Grup A
+Fatima,Fassi,75141877A,Marroc,Casablanca,18,3,1958,D,1.154 €,,True,Grup B
+Jordi,Ferrer,43586389Z,Espanya,Sevilla,15,2,1958,H,1.797 €,,True,Grup B
+Arnau,Sánchez,98144857C,Espanya,Sevilla,21,10,1990,H,2.149 €,,True,Grup B
+Carla,López,65912422Z,Espanya,Barcelona,18,7,1965,D,1.159 €,True,,Grup A
+Eva,Sánchez,18599075T,Espanya,Sevilla,7,8,1992,D,999 €,True,,Grup A
+Marta,Romero García,33058070M,Espanya,Madrid,11,5,1973,D,1.929 €,,True,Grup B
+Marta,Romero,41916963A,Espanya,Sevilla,27,4,1976,D,1.759 €,,True,Grup B
+Toni,Romero,33287222R,Espanya,València,19,1,1974,H,1.451 €,,True,Grup B
+Felipe,Gutiérrez Torres,18968118M,Colòmbia,Bogotà,25,10,2004,H,1.376 €,,True,Grup A
+Gabriela,Cruz González,52655443Q,Mèxic,Ciutat de Mèxic,3,1,1955,D,1.033 €,True,,Grup A
+Carla,Ferrer López,77962069Z,Espanya,València,2,4,1984,D,1.495 €,True,,Grup A
+Arnau,Romero Romero,29151933K,Espanya,València,8,10,1968,H,1.811 €,,True,Grup B
+Carla,Ferrer López,79849410R,Espanya,Sevilla,17,7,1982,D,816 €,,True,Grup A
+Marc,Romero Romero,46969469J,Espanya,Bilbao,8,8,1959,H,2.180 €,True,,Grup C
+Laia,Martínez,58786173A,Espanya,Madrid,26,2,1979,D,1.306 €,,True,Grup A
+Toni,Sánchez,21050694P,Espanya,Barcelona,1,1,1987,H,1.493 €,,True,Grup B
+José,Hernández,80377928E,Mèxic,Guadalajara,12,1,1992,A,1.372 €,,True,Grup A
+Jordi,Ferrer,90216874S,Espanya,Sevilla,12,7,2003,H,1.413 €,,True,Grup B
+Toni,López Castells,35319597A,Espanya,Sevilla,18,8,1977,H,772 €,,True,Grup A
+Beatriz,Ferreira Ferreira,78873166E,Portugal,Lisboa,17,11,1952,NC,974 €,,True,Grup A
+Laia,Ferrer,50776135C,Espanya,Barcelona,23,11,1972,D,940 €,,True,Grup A
+Anna,Castells García,20477181R,Espanya,Barcelona,22,10,1952,D,698 €,,True,Grup A
+Oriol,Ferrer Martínez,96251362T,Espanya,Barcelona,26,7,1950,H,954 €,,True,Grup A
+Jordi,Sánchez,21898585T,Espanya,Barcelona,18,6,1981,H,800 €,True,,Grup A
+Anna,Sánchez,74017954Q,Espanya,València,25,2,1981,D,1.200 €,,True,Grup B
+Arnau,Castells Sánchez,73128127J,Espanya,València,17,4,1998,H,2.791 €,,True,Grup D
+Oriol,Ferrer Romero,73563832M,Espanya,Madrid,9,2,1985,H,1.970 €,,True,Grup B
+Sophie,Smith,86350703G,Regne Unit,Manchester,8,1,1957,D,1.254 €,True,,Grup B
+Marc,Castells Sánchez,60439277L,Espanya,Madrid,24,10,1974,H,842 €,,True,Grup A
+Lea,Schneider Schneider,37368317L,Alemanya,Berlín,23,10,2005,D,2.013 €,,True,Grup B
+Marta,Romero Sánchez,24418722F,Espanya,Bilbao,19,7,1968,D,1.036 €,,True,Grup A
+Jordi,Sánchez Martínez,93647831W,Espanya,Barcelona,6,11,1998,H,1.095 €,,True,Grup A
+Eva,García Martínez,86767469V,Espanya,Madrid,10,7,1965,D,1.994 €,True,,Grup C
+Youssef,Fassi Zahraoui,63099488Q,Marroc,Casablanca,8,3,2003,H,1.239 €,True,,Grup A
+Pau,López,16775772V,Espanya,Madrid,24,5,1977,H,847 €,,True,Grup A
+Marta,Ferrer,58136944R,Espanya,Barcelona,28,6,2001,D,1.303 €,True,,Grup A
+Oliver,Jones,43731528C,Regne Unit,Londres,1,6,1959,H,911 €,True,,Grup A
+José,González Ramírez,83710837G,Mèxic,Ciutat de Mèxic,2,3,1955,H,1.677 €,,True,Grup B
+Carla,García Martínez,56628392X,Espanya,Madrid,19,4,1981,D,1.491 €,True,,Grup A
+Marta,García Sánchez,37718344N,Espanya,València,3,2,1962,D,1.120 €,True,,Grup A
+Laia,Castells,77632270Q,Espanya,Madrid,11,4,1986,D,917 €,,True,Grup A
+Sophie,Moreau Dubois,80554783G,França,Marsella,27,4,1956,D,1.506 €,,True,Grup A
+Jordi,Sánchez,76674953J,Espanya,Bilbao,5,3,1952,H,1.249 €,,True,Grup A
+Maria,Silva Oliveira,91487269P,Portugal,Lisboa,4,9,1993,NC,2.894 €,,True,Grup D
+Clara,Sánchez,10261037F,Espanya,Sevilla,14,10,1970,D,938 €,True,,Grup A
+Tiago,Oliveira,72940295V,Portugal,Porto,22,3,1989,H,1.354 €,True,,Grup A
+Chloé,Girard,53263676R,França,París,5,10,1952,D,741 €,True,,Grup A
+Eva,Martínez,33077646V,Espanya,Sevilla,18,3,1986,D,1.800 €,,True,Grup C
+Marc,Castells,56070621Z,Espanya,Madrid,28,11,1976,H,2.217 €,,True,Grup C
+Sara,Gutiérrez,69273831N,Colòmbia,Bogotà,26,2,1970,D,1.893 €,,True,Grup B
+Eva,García,27292471C,Espanya,Bilbao,18,10,1962,NC,2.135 €,,True,Grup B
+Núria,López Romero,69900538Q,Espanya,Barcelona,17,9,1957,D,1.047 €,,True,Grup A
+Arnau,Sánchez,42831725E,Espanya,Sevilla,13,11,1967,H,2.069 €,,True,Grup C
+Laia,Martínez,97525504X,Espanya,Barcelona,22,1,1951,D,1.188 €,True,,Grup A
+Jordi,Romero García,41171214L,Espanya,Sevilla,6,8,2000,H,1.972 €,True,,Grup B
+Marta,García Romero,49833520M,Espanya,Madrid,27,10,1984,D,954 €,,True,Grup A
+Emily,Jones,15594293F,Regne Unit,Londres,15,11,1969,D,1.274 €,,True,Grup B
+Élise,Moreau,30736318Q,França,París,25,7,2001,D,930 €,,True,Grup A
+Pau,Romero Romero,57192874B,Espanya,Sevilla,12,4,1990,H,940 €,,True,Grup A
+Joan,Romero,94898766F,Espanya,Barcelona,26,4,1969,A,3.175 €,,True,Grup D
+Arnau,Ferrer,87813160D,Espanya,València,24,3,1990,A,2.605 €,True,,Grup D
+Joan,Romero Sánchez,51884150Q,Espanya,Bilbao,24,7,1951,H,1.493 €,True,,Grup B
+Daniela,Torres,31682831V,Colòmbia,Medellín,17,5,1970,D,1.064 €,True,,Grup A
+Joan,Romero Martínez,65118360Z,Espanya,Bilbao,19,11,1954,H,2.091 €,,True,Grup B
+María,Cruz,81992107P,Mèxic,Ciutat de Mèxic,14,3,1958,D,2.653 €,True,,Grup D
+Joan,Sánchez,21526488C,Espanya,València,9,8,1997,H,2.303 €,True,,Grup B
+Clara,Ferrer,81401769X,Espanya,València,14,12,2002,D,979 €,True,,Grup A
+Marta,Martínez,98052221N,Espanya,Bilbao,22,6,1973,D,818 €,,True,Grup A
+Mohamed,El Amrani Zahraoui,49061102W,Marroc,Casablanca,12,8,1984,A,1.545 €,True,,Grup B
+Jordi,López,68625528R,Espanya,València,1,5,1996,H,1.319 €,True,,Grup A
+Jordi,Sánchez,58101481N,Espanya,Bilbao,20,4,1993,H,1.289 €,,True,Grup A
+Anna,García,12401771G,Espanya,Madrid,19,7,1972,NC,1.019 €,,True,Grup A
+Pau,Ferrer,60287803J,Espanya,Barcelona,15,3,1991,H,1.503 €,True,,Grup B
+Toni,Ferrer,24315095T,Espanya,Bilbao,24,2,1964,A,2.140 €,,True,Grup B
+Oriol,Castells,14473175F,Espanya,Bilbao,17,3,1965,H,2.222 €,,True,Grup B
+Marco,Conti Rossi,56555741Z,Itàlia,Roma,4,1,1986,H,1.450 €,,True,Grup B
+Clara,Ferrer García,16472230S,Espanya,València,26,1,1957,D,696 €,True,,Grup A
+Eva,García Sánchez,29758839B,Espanya,Madrid,28,5,1968,D,948 €,,True,Grup A
+Marc,Ferrer Sánchez,34349532Y,Espanya,Barcelona,15,7,1977,H,1.674 €,,True,Grup A
+Núria,García Martínez,52037173E,Espanya,Barcelona,26,5,2005,D,1.320 €,True,,Grup A
+Pau,Ferrer García,38355195J,Espanya,València,14,9,1984,H,1.269 €,True,,Grup A
+Alessandro,Ferrari,61746871V,Itàlia,Torí,13,4,1972,A,1.334 €,True,,Grup A
+Jordi,Romero Ferrer,59810160K,Espanya,Madrid,15,4,2002,H,1.289 €,,True,Grup A
+Mia,Fischer,21390098Z,Alemanya,Berlín,11,8,1950,D,1.557 €,True,,Grup B
+Clara,Castells Castells,43764388P,Espanya,València,15,8,1962,D,2.326 €,True,,Grup C
+Núria,Sánchez Martínez,10102138Q,Espanya,Madrid,4,1,1958,D,1.450 €,,True,Grup A
+Lea,Müller,23266650S,Alemanya,Hamburg,14,4,2003,D,1.314 €,,True,Grup A
+Jordi,Castells,74165595P,Espanya,Bilbao,1,6,1953,H,1.326 €,True,,Grup A
+Carla,López López,37325572G,Espanya,Barcelona,7,3,1956,D,812 €,True,,Grup A
+Oriol,García Ferrer,21309247F,Espanya,Barcelona,9,12,2003,H,1.603 €,True,,Grup A
+Michel,Dubois Dubois,92913286B,França,Lió,4,9,1979,H,1.095 €,,True,Grup A
+Carla,Ferrer,71124235C,Espanya,Barcelona,27,10,1987,D,836 €,,True,Grup A
+Toni,Castells Ferrer,14688639J,Espanya,Barcelona,15,11,1974,NC,1.840 €,,True,Grup B
+Arnau,López Martínez,42839231P,Espanya,Barcelona,15,11,1972,H,1.587 €,,True,Grup A
+Miguel,González,90781919E,Mèxic,Guadalajara,15,9,1955,H,1.174 €,,True,Grup A
+Marc,Castells Sánchez,56867791S,Espanya,Barcelona,24,6,2000,H,1.398 €,,True,Grup B
+Laia,Sánchez,80471691R,Espanya,Sevilla,3,3,1982,D,1.850 €,True,,Grup B
+George,Jones Taylor,66854670R,Regne Unit,Londres,27,5,2000,NC,2.100 €,,True,Grup B
+Marc,Martínez Martínez,43099073D,Espanya,Bilbao,4,1,2001,H,1.668 €,True,,Grup A
+Núria,Castells,61862070S,Espanya,València,25,12,1992,D,2.023 €,True,,Grup B
+Oriol,Romero Castells,71930041T,Espanya,València,25,4,1970,H,1.466 €,,True,Grup A
+Jordi,Romero López,20637004R,Espanya,Sevilla,13,3,1973,H,1.366 €,,True,Grup A
+Oriol,Romero Sánchez,59715366K,Espanya,Bilbao,6,2,1997,H,2.788 €,True,,Grup C
+Luisa,González Cruz,91287275Z,Mèxic,Ciutat de Mèxic,20,11,1990,D,1.201 €,True,,Grup B
+José,González,16777341F,Mèxic,Ciutat de Mèxic,16,8,1973,H,1.026 €,,True,Grup A
+Oriol,Romero García,92774049Y,Espanya,Barcelona,5,9,1972,H,1.461 €,,True,Grup B
+Oriol,Martínez,93432185G,Espanya,Sevilla,26,7,1957,H,2.282 €,,True,Grup B
+Núria,Ferrer,20520614Y,Espanya,Barcelona,9,6,1959,NC,1.961 €,,True,Grup B
+Clara,García,42280605C,Espanya,Sevilla,16,10,1951,D,1.429 €,True,,Grup B
+Eva,García,38867232T,Espanya,València,28,9,1950,D,756 €,,True,Grup A
+George,Taylor Taylor,15056420W,Regne Unit,Londres,8,9,1965,H,1.135 €,True,,Grup A
+Carla,Ferrer,73661586C,Espanya,Sevilla,11,9,1955,D,2.060 €,True,,Grup C
+Laia,Martínez,21786454M,Espanya,Barcelona,11,2,1951,D,1.306 €,,True,Grup A
+Joan,Martínez Martínez,28269893J,Espanya,València,1,2,1960,H,1.010 €,,True,Grup A
+Valentina,Rojas,66171387W,Colòmbia,Bogotà,6,9,1959,D,1.185 €,,True,Grup B
+Sara,Torres Castro,26819385K,Colòmbia,Medellín,8,8,1987,D,1.045 €,,True,Grup A
+James,Smith,66434842X,Regne Unit,Londres,1,6,1954,H,1.078 €,,True,Grup A
+Laia,Martínez Romero,63679621R,Espanya,Barcelona,5,9,1958,D,1.045 €,,True,Grup A
+Carla,Sánchez,59071537P,Espanya,Madrid,2,7,1990,D,1.522 €,True,,Grup B
+Pau,Ferrer López,12700084Q,Espanya,Madrid,16,2,1966,NC,1.183 €,True,,Grup A
+Marta,Romero García,17102266H,Espanya,València,3,4,1972,A,1.350 €,True,,Grup B
+Valentina,Torres,21135917V,Colòmbia,Bogotà,14,1,1968,D,2.040 €,,True,Grup B
+Marta,López,62868203H,Espanya,Madrid,26,8,1988,D,1.339 €,True,,Grup A
+Jordi,Romero Martínez,47660164G,Espanya,Barcelona,11,6,1983,H,2.303 €,,True,Grup B
+Laia,García,62152209S,Espanya,Madrid,9,8,1991,D,1.495 €,,True,Grup B
+Anna,Ferrer Castells,29753711H,Espanya,Bilbao,18,8,1992,D,1.317 €,True,,Grup B
+Toni,López,57378189F,Espanya,Madrid,12,10,1964,H,1.367 €,True,,Grup B
+Marta,Ferrer Sánchez,79676573H,Espanya,València,18,3,1952,D,1.299 €,True,,Grup B
+Marco,Russo,96964440V,Itàlia,Torí,13,7,1982,H,2.194 €,,True,Grup B
+Carla,Romero Ferrer,94719538H,Espanya,Sevilla,28,5,1991,D,730 €,,True,Grup A
+Laura,Castro Gutiérrez,57512928A,Colòmbia,Bogotà,18,2,1950,D,995 €,,True,Grup A
+Carla,Romero López,80030295H,Espanya,Barcelona,23,5,2002,D,776 €,True,,Grup A
+Eva,García,25373007Z,Espanya,Madrid,10,3,1971,NC,1.228 €,True,,Grup A
+Lucas,Álvarez Álvarez,14889781M,Argentina,Còrdova,17,5,1981,H,1.912 €,True,,Grup B
+Mia,Schneider Müller,90109014Q,Alemanya,Munic,28,3,1957,D,766 €,,True,Grup A
+Élise,Lefevre,78532778V,França,París,7,11,1972,D,1.696 €,True,,Grup C
+Arnau,García,16129804M,Espanya,València,11,2,1953,H,1.886 €,,True,Grup B
+Arnau,López,92922593Z,Espanya,Madrid,4,4,1994,A,1.803 €,,True,Grup B
+Élise,Dubois,93040786Z,França,Lió,4,12,1950,D,1.870 €,,True,Grup C
+Jordi,García Romero,93244065C,Espanya,Barcelona,28,5,1952,H,2.547 €,True,,Grup C
+Camila,Ramírez González,89271483K,Mèxic,Guadalajara,10,4,1965,D,1.853 €,,True,Grup B
+Jordi,Romero Romero,54523654J,Espanya,València,11,6,1984,H,972 €,,True,Grup A
+Andrés,Rojas Castro,25654945Y,Colòmbia,Medellín,20,9,1974,H,2.397 €,,True,Grup C
+Laia,Ferrer,59372221S,Espanya,Bilbao,22,5,1978,D,1.218 €,,True,Grup B
+Marta,Romero,61477292C,Espanya,Bilbao,8,7,1978,D,1.846 €,,True,Grup B
+Arnau,Martínez,65882859J,Espanya,Sevilla,3,6,1962,H,1.844 €,True,,Grup C
+Eva,Castells Romero,86419307C,Espanya,Bilbao,25,7,1988,D,2.433 €,True,,Grup D
+Marta,Romero Castells,14486584J,Espanya,València,12,12,1988,D,835 €,,True,Grup A
+Lucía,Fernández,74694535Z,Argentina,Buenos Aires,8,8,1953,D,764 €,,True,Grup A
+Toni,García Ferrer,29043853R,Espanya,València,22,9,1988,H,1.018 €,,True,Grup A
+Carla,Sánchez,98830242H,Espanya,Sevilla,2,1,1952,D,1.786 €,,True,Grup C
+Amina,Zahraoui Fassi,87981337P,Marroc,Casablanca,20,1,1984,D,1.107 €,,True,Grup A
+Carla,Romero,37195438N,Espanya,Madrid,8,11,1991,D,2.517 €,True,,Grup C
+Pau,Castells,26427399L,Espanya,Barcelona,22,1,1986,H,2.208 €,,True,Grup C
+Toni,Romero,44910416G,Espanya,València,17,2,2003,H,1.624 €,True,,Grup A
+Eva,López,60957935K,Espanya,Bilbao,26,12,1964,D,1.214 €,,True,Grup A
+Louis,Girard Lefevre,57544317R,França,Marsella,26,3,1983,H,1.009 €,True,,Grup A
+Jordi,García,38593878Z,Espanya,Bilbao,11,1,1950,H,994 €,,True,Grup A
+Marta,López,57180085D,Espanya,Sevilla,25,8,1971,D,1.056 €,True,,Grup A
+Arnau,Ferrer García,23492566L,Espanya,Sevilla,17,3,1989,H,1.377 €,,True,Grup A
+Clara,Ferrer Martínez,13998302S,Espanya,Sevilla,24,5,1951,D,1.767 €,,True,Grup B
+Salma,El Amrani,47351659S,Marroc,Casablanca,12,10,1987,D,1.414 €,,True,Grup A
+María,González Hernández,72888019J,Mèxic,Ciutat de Mèxic,14,7,1965,D,1.615 €,,True,Grup B
+Carla,García,37774950Y,Espanya,Barcelona,25,10,1952,D,950 €,,True,Grup A
+Marc,Sánchez Castells,99123197C,Espanya,Sevilla,21,3,1980,H,1.279 €,,True,Grup B
+Núria,García,37655961A,Espanya,Barcelona,2,5,1989,D,1.627 €,True,,Grup B
+Laia,López,50292113M,Espanya,Madrid,21,4,1984,D,1.179 €,True,,Grup B
+William,Brown Smith,65737147M,Regne Unit,Londres,17,7,1959,H,1.147 €,True,,Grup A
+Clara,Castells Romero,16112726L,Espanya,Barcelona,4,1,1999,D,1.392 €,True,,Grup A
+Joan,Martínez,53518484J,Espanya,Barcelona,14,9,1999,H,2.725 €,,True,Grup C
+Carla,García,68186758D,Espanya,Barcelona,6,10,2001,D,1.962 €,True,,Grup B
+Pau,Castells,66520712S,Espanya,Barcelona,1,7,1972,H,1.006 €,,True,Grup A
+Núria,Romero Martínez,10882370B,Espanya,València,16,3,2004,D,1.378 €,True,,Grup B
+Sophie,Moreau Lefevre,89173930Q,França,Marsella,11,1,1995,D,1.742 €,True,,Grup B
+Jordi,López,47195129C,Espanya,València,24,10,1954,H,1.055 €,,True,Grup A
+João,Oliveira Ferreira,18575690Y,Portugal,Lisboa,21,3,1985,H,1.225 €,,True,Grup A
+Andrés,Castro,15387541Y,Colòmbia,Medellín,8,3,2000,A,996 €,,True,Grup A
+Anna,Castells,57892591M,Espanya,Barcelona,2,1,1951,D,919 €,,True,Grup A
+Núria,Ferrer Romero,50829502T,Espanya,Sevilla,16,3,1989,D,1.257 €,,True,Grup B
+Clara,García,25403469P,Espanya,Sevilla,19,8,1998,D,747 €,,True,Grup A
+Arnau,López López,53457611N,Espanya,Bilbao,6,6,1991,H,1.382 €,,True,Grup B
+Marc,López,94076717B,Espanya,Sevilla,8,2,1987,NC,2.969 €,,True,Grup D
+Clara,Romero López,59779704A,Espanya,Barcelona,8,12,1985,D,1.385 €,True,,Grup B
+Carla,López Sánchez,35566470L,Espanya,Bilbao,11,10,1961,D,1.626 €,True,,Grup B
+Lucía,Fernández,91347406Y,Argentina,Buenos Aires,28,11,1978,NC,758 €,,True,Grup A
+Toni,Ferrer,93122931K,Espanya,Bilbao,5,9,1957,H,1.415 €,,True,Grup B
+Anna,Castells Martínez,63960462M,Espanya,Bilbao,6,3,1959,D,1.561 €,True,,Grup B
+Núria,Ferrer,45074340P,Espanya,Barcelona,27,10,1977,D,1.123 €,,True,Grup A
+Mia,Fischer,43756083N,Alemanya,Munic,8,9,1953,D,1.666 €,,True,Grup B
+Eva,Romero Romero,82052269P,Espanya,Sevilla,26,2,1954,D,1.732 €,,True,Grup C
+Arnau,Ferrer Sánchez,17966918Y,Espanya,Madrid,17,7,1964,H,2.311 €,,True,Grup C
+Sara,Gutiérrez,75892043S,Colòmbia,Bogotà,12,6,1954,D,2.656 €,True,,Grup C
+Camille,Moreau,29471837G,França,París,6,2,1957,D,797 €,,True,Grup A
+Oriol,Martínez Martínez,13508244R,Espanya,Sevilla,21,3,1951,H,1.466 €,,True,Grup A
+Sophie,Jones,25331092S,Regne Unit,Londres,26,1,1963,D,684 €,,True,Grup A
+Núria,Martínez Romero,28171073A,Espanya,Bilbao,9,7,1965,D,1.619 €,True,,Grup B
+Sara,Torres Castro,17164182B,Colòmbia,Medellín,25,2,1992,D,1.334 €,True,,Grup B
+Marc,García Ferrer,89805468T,Espanya,València,21,5,1968,H,2.143 €,True,,Grup C
+Marco,Conti Russo,10352133N,Itàlia,Torí,28,1,2005,H,2.002 €,,True,Grup B
+Joan,Martínez Sánchez,63108914N,Espanya,València,18,2,1986,H,3.318 €,True,,Grup D
+Miguel,Silva,29550519X,Portugal,Lisboa,12,6,1971,NC,897 €,,True,Grup A
+Ali,Bennani,94310395L,Marroc,Casablanca,22,3,1980,H,2.160 €,True,,Grup B
+Laia,Ferrer Martínez,85031552D,Espanya,Sevilla,23,10,1962,D,1.408 €,True,,Grup A
+Laura,Rojas,87427498D,Colòmbia,Medellín,9,5,1969,D,988 €,,True,Grup A
+Arnau,Ferrer Sánchez,19404501Z,Espanya,Bilbao,6,11,1969,H,1.332 €,True,,Grup A
+Carla,Sánchez López,17972901L,Espanya,Sevilla,11,6,1989,D,1.081 €,True,,Grup A
+Toni,López,67320503B,Espanya,Bilbao,26,1,1998,H,1.862 €,,True,Grup C
+Núria,López,92286029R,Espanya,Sevilla,5,5,1977,D,1.024 €,,True,Grup A
+Marc,Ferrer García,13299063V,Espanya,València,21,4,1996,H,1.618 €,,True,Grup B
+Miguel,Cruz,66183009R,Mèxic,Guadalajara,28,9,1955,H,1.256 €,True,,Grup A
+Marc,López Martínez,90904549G,Espanya,Madrid,18,11,2004,H,1.275 €,True,,Grup A
+Laia,Ferrer,19631537S,Espanya,Barcelona,21,12,1987,D,2.825 €,True,,Grup D
+Pau,López García,93623062E,Espanya,Sevilla,4,7,1992,H,1.668 €,,True,Grup A
+Joan,Romero Martínez,67537453P,Espanya,Bilbao,24,12,1985,H,1.764 €,,True,Grup B
+Francesca,Ferrari,73587985T,Itàlia,Torí,25,3,1999,D,1.045 €,True,,Grup A
+Toni,García García,48610709N,Espanya,Madrid,9,6,1958,H,1.400 €,True,,Grup A
+Laia,García García,27295557B,Espanya,Madrid,8,12,1972,D,2.225 €,True,,Grup C
+Laia,Sánchez López,10624826J,Espanya,Bilbao,5,8,1972,D,2.964 €,,True,Grup D
+Anna,López,37416719D,Espanya,Bilbao,17,6,1995,D,1.330 €,True,,Grup A
+Toni,Sánchez Sánchez,91797004K,Espanya,Sevilla,16,7,1950,H,1.294 €,,True,Grup A
+Marta,Romero Ferrer,97299170Q,Espanya,Barcelona,7,2,1962,D,1.336 €,True,,Grup B
+Carla,Castells Castells,98511923W,Espanya,Sevilla,22,6,1979,D,1.845 €,,True,Grup B
+Laia,Ferrer Romero,20460695D,Espanya,Sevilla,25,8,1951,D,1.303 €,True,,Grup A
+Amina,El Amrani,27053674Z,Marroc,Rabat,25,1,1959,D,854 €,True,,Grup A
+Arnau,Martínez,50115394L,Espanya,Bilbao,25,4,1959,H,1.372 €,True,,Grup B
+Jordi,Romero García,88308185F,Espanya,Bilbao,19,12,1984,H,1.535 €,True,,Grup A
+Carla,Sánchez Romero,59487847J,Espanya,València,17,10,1959,D,2.405 €,True,,Grup C
+Clara,López García,47905259N,Espanya,València,13,10,1988,D,825 €,True,,Grup A
+Laura,Castro,54313717Q,Colòmbia,Medellín,19,6,1958,D,1.484 €,,True,Grup A
+Clara,Sánchez Ferrer,38394682L,Espanya,Madrid,21,4,1963,D,1.324 €,True,,Grup A
+Matías,Rodríguez,33214782A,Argentina,Buenos Aires,12,6,1950,NC,1.055 €,,True,Grup A
+Jordi,Sánchez Ferrer,30011388C,Espanya,Madrid,2,4,1977,H,1.014 €,,True,Grup A
+Clara,García Martínez,31274825R,Espanya,Sevilla,2,9,1986,D,2.396 €,,True,Grup D
+Marc,Martínez García,14828163F,Espanya,Sevilla,12,3,1965,H,1.585 €,,True,Grup A
+Marta,Romero,15838881W,Espanya,Sevilla,26,10,2002,D,1.291 €,True,,Grup B
+Camille,Girard Lefevre,88164399Q,França,París,26,1,2001,D,1.521 €,True,,Grup B
+Marta,Castells,19356603P,Espanya,Barcelona,2,10,2003,D,2.683 €,,True,Grup D
+Florencia,Rodríguez Álvarez,19313369G,Argentina,Còrdova,27,11,1999,D,3.014 €,,True,Grup D
+Carla,López,83561180C,Espanya,Bilbao,7,7,2003,D,1.760 €,True,,Grup B
+Toni,Castells Romero,80116589E,Espanya,València,26,8,1988,H,1.292 €,True,,Grup B
+Anna,Müller,83274277X,Alemanya,Hamburg,1,1,1987,D,2.464 €,,True,Grup C
+Leon,Schneider,70945038M,Alemanya,Munic,5,5,1981,H,1.672 €,,True,Grup B
+María,Cruz,93868679R,Mèxic,Guadalajara,23,6,1978,D,746 €,True,,Grup A
+Laura,Schneider Müller,26634596X,Alemanya,Munic,28,11,1990,D,2.778 €,,True,Grup D
+Núria,Martínez,59909991M,Espanya,Barcelona,19,6,1981,D,1.939 €,,True,Grup C
+Carla,Martínez Sánchez,53118513Z,Espanya,Madrid,6,2,2004,D,689 €,True,,Grup A
+Joan,López Ferrer,55213721K,Espanya,Barcelona,21,6,1951,H,2.789 €,,True,Grup C
+Daniel,Gutiérrez Castro,17523109M,Colòmbia,Bogotà,8,7,1951,H,2.642 €,,True,Grup C
+Isla,Brown Jones,58817861M,Regne Unit,Londres,5,3,1954,A,2.280 €,True,,Grup C
+Laura,Schmidt Müller,60161784X,Alemanya,Hamburg,15,6,1987,NC,2.035 €,True,,Grup C
+Marta,García,66590677S,Espanya,Bilbao,19,8,1950,D,1.431 €,,True,Grup B
+Tomás,Gómez,89545864F,Argentina,Còrdova,19,1,1996,H,1.104 €,True,,Grup A
+Pau,Castells,70113350T,Espanya,Bilbao,17,4,1952,NC,1.117 €,,True,Grup A
+Carla,Sánchez,53672811D,Espanya,València,6,3,1957,D,2.951 €,True,,Grup D
+Francesca,Ferrari Ferrari,67472696R,Itàlia,Torí,21,4,1990,NC,1.316 €,,True,Grup B
+Jean,Moreau Girard,19178233C,França,Marsella,12,11,1989,H,866 €,,True,Grup A
+Clara,López,30289780L,Espanya,València,17,2,1951,D,2.917 €,True,,Grup D
+Arnau,López Sánchez,34121407E,Espanya,Barcelona,22,5,1951,H,1.690 €,True,,Grup C
+Núria,Martínez Ferrer,79349076S,Espanya,Barcelona,7,11,1991,D,1.506 €,,True,Grup B
+Oriol,Castells,66268793B,Espanya,Barcelona,8,7,1950,H,2.780 €,True,,Grup C
+Laia,Martínez López,35909931K,Espanya,València,17,5,1976,D,1.179 €,True,,Grup A
+Joan,García,50085415G,Espanya,Madrid,22,10,2000,H,2.067 €,,True,Grup B
+Oriol,Castells,88571285P,Espanya,Bilbao,13,4,1972,H,1.592 €,True,,Grup B
+Jordi,Ferrer López,53588164S,Espanya,Madrid,13,9,1955,H,1.691 €,True,,Grup B
+Anna,Romero,75690264M,Espanya,València,17,11,1976,D,1.286 €,,True,Grup A
+Daniel,Castro Torres,27395242L,Colòmbia,Bogotà,5,4,1992,H,1.010 €,True,,Grup A
+Marc,López Sánchez,29092175V,Espanya,Sevilla,11,4,1968,H,1.315 €,,True,Grup B
+Marta,López Sánchez,97241617V,Espanya,Madrid,17,5,1992,D,1.871 €,True,,Grup B
+Youssef,Fassi El Amrani,72488520Y,Marroc,Rabat,26,5,1968,H,995 €,True,,Grup A
+Miguel,Ferreira,87072861Y,Portugal,Porto,19,2,1990,H,1.202 €,,True,Grup A
+Inês,Silva Oliveira,99946609J,Portugal,Porto,11,2,1986,D,953 €,,True,Grup A
+Marc,García López,77786231R,Espanya,Madrid,11,8,1963,H,1.024 €,,True,Grup A
+Laia,Romero,18736805D,Espanya,Barcelona,17,4,1962,D,1.761 €,,True,Grup C
+Daniel,Rojas Castro,16349607A,Colòmbia,Medellín,7,10,1952,H,799 €,True,,Grup A
+Eva,Sánchez Castells,28923859R,Espanya,Bilbao,23,9,1987,D,2.616 €,True,,Grup C
+Pau,García Romero,67448348B,Espanya,Madrid,27,12,1983,H,2.821 €,,True,Grup D
+Anna,Ferrer,19835344L,Espanya,Madrid,8,5,1966,D,767 €,,True,Grup A
+Jordi,García García,35978728B,Espanya,València,18,6,1967,H,2.391 €,True,,Grup C
+Toni,Castells,44603694F,Espanya,València,4,9,1964,H,1.297 €,,True,Grup B
+Núria,Ferrer,50351415W,Espanya,Barcelona,19,9,2001,D,1.147 €,True,,Grup B
+Núria,Romero Castells,72548015K,Espanya,València,10,4,1996,NC,776 €,,True,Grup A
+Toni,López,63645871Q,Espanya,Barcelona,27,9,1979,NC,861 €,,True,Grup A
+Marc,Romero,83461359C,Espanya,Madrid,2,8,1984,H,1.635 €,,True,Grup B
+Núria,Martínez Ferrer,59804478P,Espanya,Bilbao,27,3,1965,D,2.293 €,,True,Grup C
+Arnau,Romero,46470158A,Espanya,Bilbao,26,6,1951,H,3.329 €,True,,Grup D
+Marta,López,12689894Z,Espanya,Bilbao,24,7,1967,D,1.421 €,,True,Grup A
+Oriol,Ferrer,17266104D,Espanya,Madrid,9,7,1985,A,726 €,,True,Grup A
+Laia,Castells López,63487190Q,Espanya,Barcelona,15,11,1969,D,1.482 €,,True,Grup B
+Núria,Romero,15071348H,Espanya,València,11,6,1951,D,712 €,,True,Grup A
+Inês,Silva,93757958D,Portugal,Lisboa,20,8,1990,D,1.121 €,True,,Grup A
+Marc,Castells,52501105S,Espanya,Bilbao,11,9,1984,H,1.844 €,,True,Grup C
+Eva,Castells Martínez,89757860E,Espanya,Barcelona,15,7,1996,D,1.370 €,True,,Grup B
+Lukas,Müller Fischer,60982309S,Alemanya,Hamburg,28,3,1971,H,2.042 €,,True,Grup B
+Marta,Ferrer,49562152B,Espanya,Madrid,25,5,1976,D,1.922 €,,True,Grup B
+Clara,Romero,89595235W,Espanya,Sevilla,23,3,1999,D,758 €,,True,Grup A
+Núria,Ferrer,71304182R,Espanya,Bilbao,17,3,1979,D,1.219 €,True,,Grup A
+Laia,Romero,32909990R,Espanya,Sevilla,18,5,1960,D,1.354 €,,True,Grup B
+Jordi,Castells,15228560C,Espanya,Barcelona,19,7,1978,H,1.541 €,,True,Grup A
+Toni,Ferrer,44724403H,Espanya,Bilbao,20,2,1980,H,1.454 €,,True,Grup B
+Laia,García Ferrer,54525691Y,Espanya,Bilbao,19,1,1970,D,1.765 €,,True,Grup B
+Beatriz,Oliveira Ferreira,74821823F,Portugal,Lisboa,5,9,1985,D,1.548 €,True,,Grup B
+Alessia,Russo,20214876P,Itàlia,Torí,28,11,1954,D,969 €,True,,Grup A
+Florencia,Gómez,61343247E,Argentina,Còrdova,8,7,1984,NC,1.594 €,,True,Grup A
+Pau,Martínez López,36334567G,Espanya,València,19,12,1994,H,1.498 €,,True,Grup A
+Arnau,Ferrer Romero,41974885N,Espanya,València,13,7,1958,H,1.786 €,True,,Grup B
+Laia,Romero,47691452T,Espanya,València,18,7,1950,D,1.007 €,,True,Grup A
+Pau,Sánchez,48127366Y,Espanya,València,26,5,1954,H,1.411 €,,True,Grup A
+Daniel,Castro,49287703B,Colòmbia,Medellín,13,10,1956,H,1.207 €,True,,Grup A
+Santiago,Gutiérrez Torres,78223675H,Colòmbia,Medellín,4,12,1959,H,2.238 €,True,,Grup B
+Jordi,Ferrer,82418527A,Espanya,Barcelona,28,6,2002,H,961 €,,True,Grup A
+María,Cruz,75949005H,Mèxic,Guadalajara,27,1,1963,D,2.413 €,,True,Grup C
+Salma,Zahraoui,65339008Z,Marroc,Casablanca,20,12,1971,D,1.399 €,True,,Grup A
+Gabriela,Ramírez,64394445D,Mèxic,Ciutat de Mèxic,19,2,1990,D,1.569 €,True,,Grup B
+Joan,Martínez Romero,72374089J,Espanya,Sevilla,20,4,1994,NC,1.835 €,,True,Grup C
+Carla,Martínez,18457673C,Espanya,València,17,4,1999,D,1.281 €,,True,Grup B
+Clara,Castells,91690612P,Espanya,Madrid,15,3,1981,D,1.519 €,True,,Grup A
+Youssef,El Amrani Fassi,33585026G,Marroc,Rabat,13,10,1981,H,1.785 €,,True,Grup B
+Eva,García Ferrer,32219930D,Espanya,València,22,2,1991,D,665 €,True,,Grup A
+Martina,Rodríguez Gómez,90216535S,Argentina,Buenos Aires,10,3,1978,D,1.292 €,True,,Grup B
+Antoine,Lefevre,74822167B,França,Marsella,1,10,1953,H,1.745 €,,True,Grup B
+Eva,Ferrer Romero,23955973V,Espanya,Bilbao,19,5,1976,D,1.412 €,,True,Grup B
+Pau,Castells,18479670K,Espanya,Barcelona,14,9,1991,H,1.564 €,,True,Grup A
+Joan,Ferrer,75340954W,Espanya,Bilbao,21,5,1981,NC,1.408 €,,True,Grup A
+Joan,Martínez Romero,68247465J,Espanya,Sevilla,4,7,1971,H,2.975 €,,True,Grup D
+Joan,Martínez Castells,24238964E,Espanya,Barcelona,22,7,1987,H,1.165 €,,True,Grup A
+Toni,Castells Castells,12767161T,Espanya,Madrid,20,3,1950,H,1.533 €,,True,Grup A
+Marta,López,30932082P,Espanya,Bilbao,2,9,1954,A,1.922 €,True,,Grup C
+Carla,Ferrer Castells,74074321A,Espanya,Sevilla,2,8,1957,D,1.091 €,True,,Grup A
+Toni,Ferrer,46145725B,Espanya,Barcelona,24,8,1972,H,1.667 €,True,,Grup A
+Marc,Romero Ferrer,82680101W,Espanya,València,22,9,1993,H,1.743 €,True,,Grup C
+Jordi,García,97294667E,Espanya,Barcelona,3,1,1975,H,966 €,True,,Grup A
+Francesca,Russo,35241609K,Itàlia,Torí,9,11,1986,D,1.344 €,True,,Grup A
+Arnau,Sánchez Martínez,87906075W,Espanya,Madrid,12,11,2003,H,766 €,,True,Grup A
+Amina,Fassi,31059050X,Marroc,Casablanca,13,12,1971,NC,1.460 €,,True,Grup A
+Fatima,Zahraoui El Amrani,60378955C,Marroc,Rabat,27,1,1986,D,1.312 €,,True,Grup A
+Lucas,Fernández Álvarez,72168409M,Argentina,Còrdova,27,4,1993,H,1.992 €,True,,Grup B
+Julieta,Rodríguez,44215821L,Argentina,Buenos Aires,24,7,1979,D,1.181 €,,True,Grup B
+Oriol,Martínez,53071392K,Espanya,Barcelona,9,7,2002,H,2.019 €,True,,Grup C
+Jordi,Ferrer,23058334Y,Espanya,Sevilla,5,3,1993,H,1.653 €,True,,Grup B
+Arnau,Sánchez Sánchez,48242975Q,Espanya,Sevilla,5,7,1974,H,1.485 €,,True,Grup A
+William,Brown,16218169P,Regne Unit,Londres,24,2,1991,H,997 €,True,,Grup A
+Marc,Castells,81901030H,Espanya,Sevilla,20,9,1970,H,1.108 €,True,,Grup A
+Clara,Romero,26689120S,Espanya,València,4,1,1974,D,3.021 €,True,,Grup D
+Miguel,Oliveira Pereira,69723912X,Portugal,Porto,19,4,1958,H,1.030 €,,True,Grup A
+Joan,Ferrer Castells,87631058F,Espanya,Madrid,25,10,1967,H,1.249 €,True,,Grup A
+Marc,Martínez Sánchez,58004635G,Espanya,Bilbao,21,12,1965,H,2.247 €,True,,Grup C
+Joan,Ferrer,33400905A,Espanya,Sevilla,19,12,1970,NC,1.012 €,,True,Grup A
+Youssef,Zahraoui,68343127F,Marroc,Casablanca,2,3,1998,H,1.599 €,,True,Grup A
+Pau,Ferrer García,25439397A,Espanya,Barcelona,21,3,1982,H,1.270 €,,True,Grup B
+Toni,Castells,99688433B,Espanya,València,1,5,1960,H,1.634 €,True,,Grup A
+Marc,Ferrer Romero,16378767Z,Espanya,Madrid,9,10,1973,H,1.081 €,,True,Grup A
+Laura,Schneider,74158500N,Alemanya,Hamburg,25,1,1957,D,1.368 €,,True,Grup A
+Emily,Taylor Jones,89577876S,Regne Unit,Manchester,28,3,1958,D,2.033 €,,True,Grup B
+Anna,Castells García,76782023V,Espanya,Bilbao,26,3,1950,D,1.465 €,True,,Grup B
+Toni,Martínez,87154578D,Espanya,Bilbao,5,7,1973,H,1.643 €,True,,Grup B
+Núria,Ferrer,19721783S,Espanya,Barcelona,7,12,1983,D,1.964 €,,True,Grup B
+Arnau,Sánchez,99611153A,Espanya,Barcelona,16,12,1998,H,1.435 €,,True,Grup A
+Toni,Sánchez Romero,84495908R,Espanya,Bilbao,18,12,1952,H,2.034 €,,True,Grup C
+Arnau,López Martínez,29203160E,Espanya,València,24,1,1970,H,3.253 €,True,,Grup D
+Eva,Ferrer,73063501Z,Espanya,Sevilla,4,11,1990,D,1.365 €,True,,Grup A
+Pau,Sánchez,36106979Y,Espanya,Sevilla,1,2,1953,H,1.037 €,,True,Grup A
+Marta,García,87257820C,Espanya,València,14,5,1976,D,1.582 €,,True,Grup B
+Sara,Castro,62035858J,Colòmbia,Bogotà,4,12,1974,D,1.524 €,True,,Grup B
+Clara,Martínez Romero,90389717L,Espanya,València,9,7,1973,D,1.065 €,True,,Grup A
+Joan,Romero Martínez,85693556P,Espanya,Barcelona,2,11,1973,H,1.546 €,True,,Grup A
+Chiara,Russo Conti,97143963K,Itàlia,Roma,6,11,1985,A,1.441 €,True,,Grup B
+Marta,Castells López,27368854D,Espanya,Barcelona,9,6,1985,D,1.438 €,,True,Grup A
+Anna,Ferrer,41260739H,Espanya,Sevilla,25,5,2000,D,2.164 €,,True,Grup C
+Pau,Ferrer Martínez,58740246B,Espanya,Barcelona,24,12,1964,H,853 €,,True,Grup A
+Alessandro,Ferrari,14098793R,Itàlia,Torí,22,7,2003,H,1.443 €,True,,Grup A
+Laia,Romero Martínez,68722397X,Espanya,Barcelona,28,5,1964,D,1.015 €,,True,Grup A
+Eva,Castells Romero,39929911E,Espanya,Madrid,24,1,1958,A,1.908 €,,True,Grup B
+Jordi,Romero,36717144Q,Espanya,Bilbao,17,11,1969,H,1.358 €,,True,Grup B
+Jean,Dubois,12118177C,França,Marsella,24,11,1970,H,1.045 €,,True,Grup A
+Arnau,Romero,70806232V,Espanya,València,24,6,1976,H,772 €,,True,Grup A
+Olivia,Taylor,52604206S,Regne Unit,Londres,13,9,1992,NC,1.416 €,True,,Grup A
+Clara,Sánchez Romero,97210518F,Espanya,Bilbao,16,3,2004,D,1.024 €,,True,Grup A
+Gabriela,Ramírez González,44505750Y,Mèxic,Ciutat de Mèxic,26,3,1988,D,1.220 €,,True,Grup B
+Eva,Ferrer Ferrer,89141927S,Espanya,València,24,12,1979,D,1.587 €,,True,Grup B
+João,Oliveira,19113138L,Portugal,Lisboa,1,7,1979,H,1.276 €,,True,Grup A
+Florencia,Álvarez,83374173K,Argentina,Buenos Aires,14,11,1961,D,1.043 €,,True,Grup A
+João,Silva,31397148Y,Portugal,Lisboa,2,7,1994,H,1.634 €,,True,Grup A
+Laia,López Sánchez,15336274M,Espanya,Barcelona,11,5,1964,D,2.090 €,,True,Grup B
+Marc,Martínez Castells,41718924T,Espanya,Barcelona,13,5,1979,NC,1.473 €,,True,Grup A
+Juan,Gómez Gómez,35577350W,Argentina,Còrdova,9,10,1994,H,1.685 €,True,,Grup C
+Marta,Martínez,11062448Q,Espanya,Barcelona,4,7,1980,D,1.660 €,True,,Grup B
+Laia,Romero Martínez,44346665J,Espanya,València,18,7,1963,A,2.049 €,,True,Grup C
+Joan,Ferrer,83602803G,Espanya,Sevilla,2,2,1964,H,1.213 €,,True,Grup A
+Jordi,Martínez Ferrer,52759329M,Espanya,València,18,2,1972,A,778 €,,True,Grup A
+Anna,Sánchez López,28210536A,Espanya,Madrid,4,8,1997,A,1.197 €,,True,Grup A
+Eva,López Martínez,31675368R,Espanya,Bilbao,27,7,1998,D,1.334 €,,True,Grup B
+Eva,Romero,76436789V,Espanya,Bilbao,18,7,1967,D,1.322 €,,True,Grup A
+Pau,Castells Martínez,84904881L,Espanya,Barcelona,3,1,1985,H,1.242 €,,True,Grup A
+Laia,Castells,89450981Z,Espanya,Bilbao,20,11,2000,D,1.698 €,True,,Grup B
+Carla,Ferrer García,76029605D,Espanya,València,25,2,1970,D,2.514 €,,True,Grup C
+Jordi,García López,80909731Y,Espanya,Sevilla,6,6,1971,H,1.249 €,True,,Grup A
+Núria,Romero Romero,66842033A,Espanya,Madrid,3,3,1962,D,894 €,,True,Grup A
+Gabriela,Cruz,44245943V,Mèxic,Guadalajara,27,1,1955,D,1.396 €,,True,Grup A
+Laia,Castells Ferrer,54853635H,Espanya,Sevilla,23,6,1986,D,1.178 €,True,,Grup B
+Laia,Castells,44569678M,Espanya,Madrid,9,8,1977,D,981 €,,True,Grup A
+Marta,Martínez,87865381W,Espanya,Sevilla,17,7,2000,D,1.197 €,,True,Grup A
+Arnau,Sánchez,21820075A,Espanya,Bilbao,23,1,1978,H,1.107 €,,True,Grup A
+Laura,Castro Torres,81398413Q,Colòmbia,Medellín,6,6,1997,D,1.438 €,,True,Grup B
+Laura,Schmidt,57692936L,Alemanya,Hamburg,3,5,1956,NC,1.828 €,True,,Grup B
+Toni,Romero García,17135791L,Espanya,Barcelona,12,6,1963,H,1.598 €,,True,Grup B
+Francesca,Conti,76257088H,Itàlia,Roma,10,8,1955,D,810 €,True,,Grup A
+Pau,García,15664344B,Espanya,València,1,3,2000,H,2.390 €,,True,Grup C
+Jonas,Schneider,44060014R,Alemanya,Berlín,22,11,1985,H,2.754 €,True,,Grup D
+Clara,Sánchez Castells,51635247N,Espanya,València,6,10,1973,D,1.167 €,,True,Grup A
+Arnau,Martínez Martínez,13357124H,Espanya,Sevilla,6,12,1960,H,1.789 €,,True,Grup B
+Núria,Castells,42128077K,Espanya,València,16,2,2001,D,892 €,,True,Grup A
+Oriol,López Martínez,49180523M,Espanya,Madrid,17,3,1978,H,2.283 €,True,,Grup C
+Marta,Martínez Ferrer,53983933P,Espanya,València,2,11,2001,D,806 €,,True,Grup A
+Núria,Martínez Martínez,64697693K,Espanya,Bilbao,20,8,2002,D,1.006 €,,True,Grup A
+Tiago,Ferreira Pereira,15021643F,Portugal,Lisboa,15,3,1959,A,1.263 €,,True,Grup A
+Isla,Smith Brown,96612764F,Regne Unit,Londres,24,9,1991,D,2.169 €,True,,Grup C
+Pau,López,71377022P,Espanya,Madrid,28,12,1971,H,794 €,True,,Grup A
+Anna,Ferrer Martínez,43507453W,Espanya,Bilbao,15,10,1981,D,850 €,True,,Grup A
+Oriol,Martínez,26414747E,Espanya,Sevilla,23,12,1991,H,803 €,True,,Grup A
+Toni,Martínez López,69931972C,Espanya,Madrid,4,12,1983,H,1.607 €,True,,Grup A
+Marc,García,86555403J,Espanya,Madrid,14,7,1977,H,1.599 €,,True,Grup A
+Anna,López,53653173V,Espanya,Madrid,17,1,1964,A,1.303 €,,True,Grup B
+Marc,Castells,15138029Q,Espanya,Bilbao,16,12,2002,H,2.132 €,,True,Grup B
+Daniel,Rojas Torres,52720140A,Colòmbia,Bogotà,20,8,1985,H,1.457 €,True,,Grup A
+Carla,López Romero,19863880V,Espanya,Sevilla,22,4,1954,D,1.173 €,True,,Grup A
+Ali,El Amrani El Amrani,53822006D,Marroc,Rabat,4,5,1971,H,2.127 €,,True,Grup B
+Juan,Álvarez Fernández,18876694Z,Argentina,Buenos Aires,11,8,1991,H,1.412 €,True,,Grup B
+Anna,Castells Ferrer,67985873N,Espanya,Barcelona,8,1,1983,D,1.494 €,True,,Grup A
+Pau,Sánchez,78668978W,Espanya,Bilbao,20,5,1994,H,2.176 €,True,,Grup B
+Núria,Ferrer,15895974X,Espanya,Barcelona,10,4,1957,D,2.366 €,,True,Grup C
+Maria,Pereira Pereira,51927396G,Portugal,Porto,19,6,1980,D,1.672 €,,True,Grup B
+Joan,Romero López,49846108N,Espanya,Barcelona,11,1,1950,H,1.982 €,True,,Grup B
+Marc,López,30525996L,Espanya,Sevilla,23,1,1965,H,842 €,True,,Grup A
+Laia,Castells Martínez,46129359E,Espanya,Madrid,8,4,1975,D,1.442 €,,True,Grup B
+Laia,Sánchez Romero,54990944C,Espanya,Bilbao,4,12,1960,D,2.060 €,True,,Grup C
+Jordi,Ferrer Martínez,90464341H,Espanya,València,12,11,1981,H,1.664 €,,True,Grup A
+Marta,García,19814204M,Espanya,Bilbao,23,2,1999,D,1.580 €,True,,Grup B
+Marc,Romero,46035899S,Espanya,Sevilla,2,11,1975,H,1.569 €,,True,Grup B
+Arnau,Martínez,38832908L,Espanya,Madrid,20,12,1999,H,2.100 €,,True,Grup B
+Maria,Silva,18647358J,Portugal,Porto,14,12,1991,A,2.458 €,,True,Grup C
+Carla,Sánchez,11156851X,Espanya,València,17,8,1975,D,1.508 €,True,,Grup B
+Louis,Dubois Girard,38127780Y,França,Lió,21,11,1950,H,1.085 €,,True,Grup A
+Eva,López Sánchez,61239482R,Espanya,València,25,4,1987,D,2.086 €,,True,Grup B
+Oriol,Castells Ferrer,95204020C,Espanya,València,14,10,1959,H,1.576 €,True,,Grup A
+Toni,López,12868239Z,Espanya,Sevilla,10,3,1989,H,2.882 €,,True,Grup D
+Lucas,Álvarez,71461971W,Argentina,Buenos Aires,22,3,1984,H,1.670 €,,True,Grup B
+Núria,Martínez Castells,31958336Z,Espanya,Sevilla,8,12,1962,D,1.300 €,,True,Grup B
+Inês,Oliveira Ferreira,69796526G,Portugal,Lisboa,2,5,1970,D,687 €,,True,Grup A
+Laia,Ferrer,45203656T,Espanya,Sevilla,18,6,1988,D,947 €,,True,Grup A
+Jordi,Romero García,80122915D,Espanya,Bilbao,5,12,1978,H,1.948 €,True,,Grup C
+Jonas,Schneider Schmidt,19508494Q,Alemanya,Hamburg,15,8,1983,H,1.476 €,True,,Grup B
+Camila,Cruz Cruz,86198614J,Mèxic,Guadalajara,2,1,1952,D,839 €,,True,Grup A
+Núria,Martínez Sánchez,37757421G,Espanya,Madrid,23,5,1967,D,914 €,True,,Grup A
+Carla,Ferrer García,14219190G,Espanya,Madrid,19,12,1960,D,1.405 €,True,,Grup A
+Toni,Romero,33177087Z,Espanya,Barcelona,7,5,1990,H,1.101 €,,True,Grup A
+Pau,Castells,65535145H,Espanya,Bilbao,20,7,1953,H,2.952 €,,True,Grup D
+Jordi,García Martínez,18873517G,Espanya,Sevilla,7,2,1974,H,774 €,True,,Grup A
+Alessia,Russo Russo,45620823H,Itàlia,Torí,18,5,1995,D,1.162 €,,True,Grup A
+Marta,López,68222849D,Espanya,València,4,11,1971,D,2.351 €,True,,Grup C
+Eva,Romero,14778034E,Espanya,Madrid,21,1,1972,D,1.022 €,True,,Grup A
+Pau,Martínez García,32873655H,Espanya,Barcelona,15,11,1989,H,2.254 €,,True,Grup B
+Sofia,Oliveira,74293523P,Portugal,Lisboa,2,4,1998,D,2.006 €,,True,Grup B
+Beatriz,Ferreira,49127195L,Portugal,Porto,11,5,1950,A,1.574 €,True,,Grup B
+Joan,López,32610074J,Espanya,Barcelona,22,10,1964,H,1.623 €,,True,Grup A
+Joan,Romero Martínez,17792481K,Espanya,Bilbao,16,2,1996,H,1.849 €,,True,Grup B
+Joan,García,75293326J,Espanya,Bilbao,23,6,1960,H,826 €,,True,Grup A
+Miguel,González Cruz,81156988L,Mèxic,Ciutat de Mèxic,7,8,1965,H,2.051 €,,True,Grup B
+Eva,Martínez,60352406T,Espanya,Madrid,13,6,1994,D,1.149 €,,True,Grup B
+Marta,López,29661736H,Espanya,Madrid,16,7,2001,D,1.963 €,True,,Grup C
+Louis,Dubois Dubois,94035504X,França,París,22,9,1964,H,1.000 €,,True,Grup A
+Giovanni,Rossi Ferrari,85975055P,Itàlia,Torí,14,6,1991,H,1.022 €,,True,Grup A
+Marc,Sánchez,72988314H,Espanya,Bilbao,3,6,1996,H,1.143 €,True,,Grup A
+Francesca,Rossi Russo,25144352S,Itàlia,Torí,1,9,1994,D,1.254 €,,True,Grup A
+Anna,Ferrer Romero,53730243G,Espanya,Sevilla,24,1,2005,D,718 €,,True,Grup A
+Carla,Romero,66192865D,Espanya,Barcelona,17,6,1998,D,1.785 €,True,,Grup B
+Chloé,Moreau,21285125Z,França,Marsella,5,5,1976,D,1.173 €,True,,Grup A
+Oriol,Sánchez,11962486C,Espanya,Sevilla,27,2,1958,H,2.539 €,,True,Grup C
+Lucas,Álvarez,26130098V,Argentina,Buenos Aires,2,8,1978,H,899 €,True,,Grup A
+Jordi,García Castells,82495492K,Espanya,València,4,7,1970,H,1.848 €,True,,Grup B
+Carla,López,22553315Z,Espanya,València,27,6,1972,D,912 €,,True,Grup A
+Jordi,Ferrer,51701516Z,Espanya,Bilbao,22,5,1960,H,1.325 €,,True,Grup A
+Maria,Ferreira Ferreira,77255461X,Portugal,Porto,4,3,1996,D,1.896 €,True,,Grup B
+Núria,Martínez,50017849P,Espanya,València,26,9,1958,D,1.912 €,,True,Grup B
+Joan,Romero,63666276G,Espanya,Sevilla,10,11,1952,H,1.904 €,,True,Grup C
+Jean,Dubois Moreau,14532429J,França,Marsella,7,12,1967,H,1.941 €,,True,Grup B
+Eva,Ferrer,48928716V,Espanya,Madrid,22,5,1997,D,1.226 €,,True,Grup B
+Laia,Ferrer,92136991X,Espanya,Madrid,18,8,1973,D,1.083 €,True,,Grup A
+Pau,Sánchez Martínez,80745485X,Espanya,Madrid,2,3,1981,H,2.510 €,True,,Grup C
+Andrés,González,20554785E,Mèxic,Guadalajara,13,10,1977,H,1.734 €,,True,Grup B
+Andrés,Torres,18783620K,Colòmbia,Medellín,13,1,1967,H,1.567 €,,True,Grup A
+Joan,Martínez Romero,77617404G,Espanya,Madrid,19,6,1972,H,1.129 €,True,,Grup A
+Eva,Castells Romero,14270387K,Espanya,Bilbao,25,6,1974,D,1.317 €,,True,Grup A
+Pau,García,33366982Q,Espanya,Madrid,11,3,1976,NC,2.910 €,,True,Grup D
+Juan,Álvarez,72582805W,Argentina,Buenos Aires,21,2,1968,H,887 €,True,,Grup A
+Valentina,Castro Rojas,52982989C,Colòmbia,Medellín,8,12,1986,D,817 €,True,,Grup A
+Valentina,Gutiérrez Rojas,96850216C,Colòmbia,Medellín,2,10,1959,D,1.728 €,True,,Grup B
+Toni,Martínez,81908160Z,Espanya,València,13,7,1978,H,1.928 €,True,,Grup C
+Marc,Romero,93864786W,Espanya,València,8,6,1957,H,793 €,True,,Grup A
+Arnau,Martínez Romero,58780487Q,Espanya,Bilbao,26,8,1997,H,1.430 €,,True,Grup A
+Eva,Castells Romero,68747775D,Espanya,Barcelona,13,2,1980,A,931 €,,True,Grup A
+Oriol,Martínez,39256461F,Espanya,València,17,7,1951,H,1.593 €,,True,Grup A
+Toni,Ferrer,53837158P,Espanya,Bilbao,7,4,1996,A,1.269 €,,True,Grup A
+Toni,Sánchez Sánchez,21123762J,Espanya,València,20,1,1989,H,2.293 €,,True,Grup B
+Arnau,Martínez Sánchez,87203712F,Espanya,Barcelona,20,6,1971,H,1.373 €,,True,Grup B
+Toni,Sánchez,94864855F,Espanya,Madrid,6,3,1996,H,2.052 €,,True,Grup B
+Jordi,López,22768293W,Espanya,Madrid,27,4,1996,H,2.843 €,True,,Grup C
+Oriol,Romero López,83942911L,Espanya,Bilbao,3,5,1951,H,2.046 €,,True,Grup B
+Marta,Sánchez,61643122A,Espanya,València,28,10,1980,D,1.357 €,True,,Grup A
+Carla,López,80132051V,Espanya,València,4,6,1994,D,994 €,True,,Grup A
+Sofia,Silva Oliveira,49962478C,Portugal,Lisboa,13,8,1977,NC,1.449 €,,True,Grup B
+Tomás,Gómez,49561814F,Argentina,Buenos Aires,3,10,1972,H,1.456 €,,True,Grup B
+Carla,Castells,41288932T,Espanya,Barcelona,24,10,1962,D,1.248 €,True,,Grup B
+Carla,López López,36744704Y,Espanya,València,9,10,1970,D,2.201 €,,True,Grup C
+Eva,Ferrer Romero,13080692S,Espanya,Barcelona,1,11,2005,D,2.899 €,,True,Grup D
+Núria,Martínez Sánchez,75528612H,Espanya,Barcelona,23,7,1999,D,2.185 €,True,,Grup C
+Michel,Girard Dubois,14345055N,França,París,9,8,1970,H,2.973 €,,True,Grup D
+Oriol,Martínez Sánchez,99934405Q,Espanya,València,3,9,1969,H,1.214 €,True,,Grup A
+Eva,Martínez Martínez,54035649P,Espanya,Madrid,16,9,2003,D,1.291 €,,True,Grup A
+Toni,López García,65854367Q,Espanya,Bilbao,23,2,1976,H,2.485 €,,True,Grup C
+Laia,López,54906134P,Espanya,Madrid,15,10,1978,D,1.447 €,True,,Grup B
+Giovanni,Ferrari,42177426S,Itàlia,Torí,8,2,1964,H,1.468 €,,True,Grup B
+Núria,Romero,70317853J,Espanya,Barcelona,24,12,1970,D,1.939 €,,True,Grup B
+Núria,López,66795744Q,Espanya,Sevilla,7,6,1956,D,1.314 €,,True,Grup A
+Carla,Ferrer,47126739B,Espanya,Barcelona,17,12,1963,D,1.928 €,True,,Grup C
+Pau,Ferrer,38900939H,Espanya,Sevilla,23,2,1996,H,1.507 €,True,,Grup A
+Laia,Castells Castells,46674072A,Espanya,Bilbao,3,12,1968,NC,1.330 €,True,,Grup A
+Clara,Castells,37528225W,Espanya,Barcelona,17,7,1953,D,778 €,,True,Grup A
+Jordi,García,29356893J,Espanya,Sevilla,13,6,1987,H,2.730 €,True,,Grup C
+Oriol,Romero,84944664N,Espanya,Bilbao,28,3,1959,NC,913 €,True,,Grup A
+Emily,Taylor,42592903R,Regne Unit,Londres,24,3,1976,D,1.250 €,True,,Grup A
+Jordi,López,96810023K,Espanya,Madrid,25,6,1995,H,3.258 €,,True,Grup D
+Clara,López García,95233500R,Espanya,Sevilla,18,8,1955,D,988 €,,True,Grup A
+Arnau,Ferrer Romero,48918423X,Espanya,Madrid,2,7,1975,H,2.196 €,,True,Grup B
+George,Brown Jones,57441590Y,Regne Unit,Manchester,27,12,1979,H,1.130 €,True,,Grup A
+Arnau,Martínez,14579601F,Espanya,Bilbao,13,8,1964,H,1.321 €,,True,Grup A
+Carla,Castells López,10570045V,Espanya,València,17,10,1966,D,1.034 €,,True,Grup A
+Núria,Castells Ferrer,58423324H,Espanya,Sevilla,13,10,2005,D,2.058 €,,True,Grup B
+Joan,Martínez,76315436N,Espanya,Sevilla,26,5,1976,H,2.817 €,,True,Grup C
+Joan,García Ferrer,27743987C,Espanya,Madrid,1,6,1975,H,800 €,True,,Grup A
+Matías,Rodríguez Gómez,30532432L,Argentina,Buenos Aires,28,9,1957,H,1.463 €,True,,Grup B
+Laia,Sánchez,25178167X,Espanya,Barcelona,27,1,1965,D,1.876 €,True,,Grup B
+Marta,Martínez Romero,87416108F,Espanya,Sevilla,7,9,1955,D,1.962 €,,True,Grup C
+Marc,García,60786095W,Espanya,Madrid,8,1,1972,A,1.553 €,,True,Grup A
+Toni,Castells,90131757Y,Espanya,Sevilla,11,5,2004,H,1.353 €,,True,Grup A
+Arnau,García,95250887Z,Espanya,Sevilla,10,9,1966,NC,1.230 €,,True,Grup A
+Matías,Álvarez,19039929Q,Argentina,Còrdova,24,8,1954,H,1.686 €,True,,Grup B
+Clara,Sánchez,87285985P,Espanya,Madrid,1,10,2002,A,3.142 €,True,,Grup D
+Florencia,Gómez Fernández,73118029L,Argentina,Còrdova,12,7,1992,D,1.245 €,,True,Grup B
+Joan,Romero Romero,13814869T,Espanya,Barcelona,3,11,1995,H,1.108 €,True,,Grup A
+Laia,López Castells,23290905N,Espanya,Madrid,13,8,1971,NC,2.615 €,True,,Grup D
+Marta,Sánchez Romero,65314666K,Espanya,Barcelona,5,6,1993,D,1.320 €,,True,Grup B
+Clara,García López,87956285P,Espanya,València,21,1,1983,D,1.101 €,True,,Grup A
+Clara,Sánchez,60189754G,Espanya,Barcelona,3,10,1985,D,1.431 €,,True,Grup A
+Núria,López,28369496M,Espanya,Barcelona,28,5,1961,D,797 €,True,,Grup A
+Oriol,López Castells,30561064P,Espanya,Madrid,14,4,1987,H,3.356 €,,True,Grup D
+Joan,Ferrer García,99057187Q,Espanya,Bilbao,5,5,1995,H,2.856 €,True,,Grup C
+Olivia,Brown Brown,58204038A,Regne Unit,Manchester,28,8,1952,A,1.023 €,,True,Grup A
+Eva,Sánchez,14157308N,Espanya,Sevilla,28,6,1958,A,703 €,,True,Grup A
+Pau,Romero Martínez,98834273R,Espanya,Barcelona,16,9,1974,H,1.753 €,,True,Grup B
+Miguel,Ramírez,73829702G,Mèxic,Ciutat de Mèxic,26,4,2005,H,1.665 €,,True,Grup A
+Khadija,El Amrani,41366739S,Marroc,Casablanca,13,9,1998,D,1.136 €,True,,Grup A
+Gabriela,González Cruz,97687146Q,Mèxic,Ciutat de Mèxic,20,2,1985,NC,1.583 €,,True,Grup B
+Jordi,López,83294970L,Espanya,Sevilla,18,2,1998,H,879 €,,True,Grup A
+Laia,Castells,90364828E,Espanya,Bilbao,23,4,1998,D,1.788 €,True,,Grup B
+Clara,López,16082109P,Espanya,Madrid,12,5,1989,D,1.400 €,,True,Grup B
+Michel,Girard,72654945E,França,París,12,3,2004,H,1.518 €,True,,Grup A
+Valentina,Torres,67234434Y,Colòmbia,Medellín,12,7,1981,D,859 €,True,,Grup A
+José,Cruz González,93347578D,Mèxic,Ciutat de Mèxic,24,10,1983,H,1.430 €,,True,Grup A
+Laia,Sánchez,26631271T,Espanya,Bilbao,19,5,1970,A,1.987 €,True,,Grup B
+Eva,García,64708400Q,Espanya,Barcelona,27,10,1960,D,724 €,True,,Grup A
+Camila,Cruz Cruz,94224511S,Mèxic,Ciutat de Mèxic,19,7,1954,D,1.292 €,True,,Grup A
+João,Silva,73326255V,Portugal,Porto,23,10,1970,H,1.984 €,True,,Grup B
+Antoine,Lefevre Girard,83613978F,França,Marsella,22,12,1981,H,1.620 €,True,,Grup B
+Michel,Moreau,51525932J,França,Marsella,27,6,1978,H,2.085 €,True,,Grup B
+Marc,García Romero,64443494X,Espanya,Bilbao,25,1,2004,H,1.086 €,,True,Grup A
+Anna,Ferrer Castells,54172956P,Espanya,Bilbao,1,9,1953,D,1.162 €,,True,Grup A
+Anna,Romero,23397473D,Espanya,Madrid,11,3,1990,D,962 €,,True,Grup A
+Joan,López,44026048T,Espanya,València,15,10,1982,H,2.290 €,,True,Grup B
+Marta,López López,43409433Y,Espanya,Sevilla,24,2,1986,D,1.292 €,,True,Grup B
+Laia,López López,68548102E,Espanya,Bilbao,3,5,1997,D,1.057 €,True,,Grup A
+Ali,Bennani Fassi,79888539R,Marroc,Casablanca,14,12,1983,H,1.510 €,,True,Grup A
+Pau,Sánchez,39025961G,Espanya,Sevilla,20,10,1953,H,2.765 €,,True,Grup C
+Leon,Schneider Schneider,68512981B,Alemanya,Hamburg,16,10,1977,H,2.984 €,,True,Grup D
+Laia,López López,32095971T,Espanya,València,8,5,1962,D,1.238 €,True,,Grup B
+Pau,López Martínez,82936531F,Espanya,Sevilla,17,12,1958,H,1.409 €,,True,Grup B
+Jordi,García Ferrer,84414697K,Espanya,Sevilla,21,8,1959,H,1.086 €,True,,Grup A
+Lucía,Álvarez,76096673N,Argentina,Buenos Aires,10,8,1972,A,1.141 €,,True,Grup A
+Eva,López Ferrer,20049413F,Espanya,Bilbao,24,12,1952,D,2.016 €,,True,Grup B
+Clara,García Ferrer,47702024A,Espanya,Barcelona,10,10,1956,D,1.986 €,,True,Grup B
+Joan,Martínez Ferrer,70201568H,Espanya,València,12,3,1964,H,2.905 €,,True,Grup D
+Jordi,Sánchez,36305607S,Espanya,Barcelona,1,3,1976,H,1.761 €,,True,Grup C
+Marta,Castells López,89826839F,Espanya,Bilbao,10,1,1964,D,1.166 €,True,,Grup A
+Anna,Martínez,21546595T,Espanya,Sevilla,24,2,1973,D,1.155 €,,True,Grup A
+Carla,Castells Castells,26880397A,Espanya,Barcelona,27,3,1977,D,1.429 €,,True,Grup A
+Núria,López,47853239E,Espanya,Sevilla,14,4,1969,D,1.786 €,,True,Grup B
+Eva,Romero,20752389X,Espanya,Sevilla,16,11,1964,NC,1.960 €,,True,Grup C
+Toni,Romero Ferrer,78312427G,Espanya,Bilbao,13,12,1970,H,2.346 €,,True,Grup C
+Jordi,Romero,62062006Z,Espanya,València,1,1,1973,H,2.306 €,,True,Grup C
+Clara,Martínez Romero,73130661B,Espanya,València,1,10,1975,D,1.978 €,True,,Grup B
+Eva,Martínez,70773495X,Espanya,València,4,12,1970,D,1.238 €,,True,Grup A
+Camille,Moreau Moreau,93384627N,França,Lió,16,7,1993,D,1.962 €,,True,Grup B
+William,Smith Smith,25490219L,Regne Unit,Londres,1,12,1952,H,1.643 €,True,,Grup B
+Camille,Girard Lefevre,56029646T,França,Marsella,7,12,2003,D,2.447 €,True,,Grup C
+Arnau,Romero,41625678H,Espanya,Bilbao,18,11,1967,H,1.696 €,,True,Grup B
+Jordi,Martínez Ferrer,83262533Z,Espanya,València,17,6,1950,H,2.281 €,True,,Grup B
+Marta,Romero,28370355T,Espanya,Barcelona,8,4,1957,D,690 €,,True,Grup A
+Lucía,Fernández Álvarez,57516393C,Argentina,Còrdova,11,3,1973,D,684 €,True,,Grup A
+Eva,García,79003381D,Espanya,Bilbao,17,3,1997,D,1.034 €,,True,Grup A
+Carla,Sánchez,83094572C,Espanya,València,10,6,1981,D,719 €,True,,Grup A
+Toni,Martínez Castells,64200072V,Espanya,Barcelona,23,10,1957,H,1.377 €,,True,Grup A
+Jordi,Martínez Sánchez,90082879P,Espanya,Barcelona,12,12,1970,H,2.662 €,True,,Grup C
+Arnau,Martínez López,59664001Z,Espanya,Barcelona,5,9,1979,H,2.294 €,,True,Grup C
+Luisa,Ramírez,25380605S,Mèxic,Guadalajara,8,6,1984,D,1.860 €,,True,Grup C
+Laia,Martínez,41326173T,Espanya,Madrid,9,9,1977,D,2.053 €,,True,Grup B
+Oriol,Sánchez,81124534E,Espanya,Sevilla,1,4,1969,H,1.423 €,,True,Grup B
+Laia,Sánchez Sánchez,22914113G,Espanya,València,25,9,1995,NC,1.356 €,,True,Grup B
+Daniela,Castro,43658248F,Colòmbia,Bogotà,9,3,1980,D,1.670 €,True,,Grup B
+Toni,Castells,15277702T,Espanya,Bilbao,25,7,1966,H,2.132 €,,True,Grup B
+Matías,Fernández,31385792P,Argentina,Buenos Aires,28,4,1953,H,1.253 €,,True,Grup A
+Joan,García,31281157W,Espanya,València,1,4,1977,H,1.591 €,True,,Grup A
+Joan,López,23733093T,Espanya,Sevilla,12,8,1992,H,977 €,,True,Grup A
+Rui,Oliveira Silva,96925654W,Portugal,Lisboa,25,8,1992,H,1.669 €,,True,Grup B
+Amina,Zahraoui Zahraoui,18279367H,Marroc,Casablanca,20,4,1973,D,1.454 €,,True,Grup A
+Marta,Romero Romero,65476112E,Espanya,Sevilla,24,9,1991,D,1.630 €,,True,Grup B
+Anna,Ferrer,87991679M,Espanya,Barcelona,25,11,1967,D,1.408 €,,True,Grup B
+Youssef,Fassi Zahraoui,13257049V,Marroc,Rabat,13,7,1974,A,1.109 €,True,,Grup A
+Chloé,Moreau,67762046W,França,Lió,21,2,1989,D,1.441 €,,True,Grup B
+Joan,Sánchez,90958057L,Espanya,Bilbao,13,12,1974,A,1.817 €,,True,Grup B
+Michel,Lefevre,92984183N,França,Marsella,28,1,1988,H,1.120 €,,True,Grup A
+Tomás,Fernández Fernández,25883422V,Argentina,Còrdova,13,6,1964,H,1.039 €,,True,Grup A
+Carlos,Ramírez Cruz,92292409L,Mèxic,Ciutat de Mèxic,28,12,1971,H,1.529 €,True,,Grup A
+Oriol,Castells,10736038P,Espanya,Sevilla,27,3,1998,H,1.564 €,True,,Grup A
+Lukas,Müller Schmidt,95605596P,Alemanya,Munic,23,2,2005,H,1.573 €,,True,Grup A
+Núria,García,23188733V,Espanya,València,11,4,1993,D,799 €,,True,Grup A
+Daniela,Castro,43195593E,Colòmbia,Bogotà,5,2,1954,D,2.030 €,True,,Grup C
+Arnau,Sánchez,59876171G,Espanya,Madrid,28,10,1973,H,976 €,True,,Grup A
+Joan,Sánchez Sánchez,99565242W,Espanya,Madrid,28,7,2005,NC,1.432 €,,True,Grup B
+Giovanni,Rossi Russo,28237150F,Itàlia,Torí,10,12,2000,H,2.864 €,True,,Grup D
+Pau,García López,49176508C,Espanya,Sevilla,22,8,1996,H,1.348 €,True,,Grup B
+Andrés,Gutiérrez Rojas,45323039E,Colòmbia,Bogotà,18,3,1986,H,2.685 €,,True,Grup C
+Arnau,García Ferrer,20335877M,Espanya,València,20,1,1951,H,2.045 €,,True,Grup B
+Oriol,Romero Romero,63445794B,Espanya,Sevilla,11,7,1964,A,1.950 €,,True,Grup C
+Fatima,Zahraoui Zahraoui,26977768S,Marroc,Casablanca,6,2,1993,D,1.216 €,,True,Grup A
+Eva,García,11305351X,Espanya,València,22,6,1993,D,1.444 €,,True,Grup A
+Pau,Romero,19888245C,Espanya,Madrid,20,2,1953,H,1.345 €,,True,Grup A
+Marta,López,83539759S,Espanya,Barcelona,4,6,2002,D,1.170 €,True,,Grup B
+Anna,López Sánchez,95031765F,Espanya,Barcelona,19,9,1963,D,1.444 €,True,,Grup B
+Marc,Romero,87757452L,Espanya,Barcelona,16,8,1986,H,1.663 €,,True,Grup B
+Marta,Sánchez,61051397G,Espanya,Sevilla,17,3,1999,D,1.389 €,,True,Grup A
+Oriol,Martínez,63040392X,Espanya,Sevilla,22,7,1977,H,1.348 €,True,,Grup A
+Pau,Ferrer Ferrer,44065719N,Espanya,València,9,11,1991,H,1.396 €,True,,Grup B
+Alessia,Russo Russo,50496524Y,Itàlia,Roma,14,2,1983,D,1.358 €,,True,Grup B
+Camila,Hernández,92210964M,Mèxic,Guadalajara,26,9,1978,D,2.295 €,True,,Grup C
+Oriol,Sánchez García,99383081M,Espanya,València,21,5,1993,H,895 €,,True,Grup A
+Carla,Castells Ferrer,76741258Y,Espanya,Bilbao,20,7,1952,D,1.331 €,,True,Grup A
+Carla,Martínez Castells,38241293F,Espanya,Barcelona,21,10,1980,D,755 €,,True,Grup A
+Núria,Sánchez García,40194783Y,Espanya,Madrid,14,1,1966,D,1.959 €,True,,Grup B
+Michel,Moreau,28196940Z,França,Lió,12,12,1992,H,2.002 €,True,,Grup B
+Jordi,García,98801519G,Espanya,Bilbao,11,1,1970,H,1.698 €,True,,Grup B
+Isla,Jones Brown,28367234K,Regne Unit,Manchester,28,3,1999,D,1.197 €,,True,Grup A
+Joan,López Castells,92775120P,Espanya,Barcelona,1,4,1984,NC,1.555 €,True,,Grup B
+Louis,Lefevre Girard,32285371X,França,París,23,10,1970,H,737 €,True,,Grup A
+Pau,Romero Castells,28421457Z,Espanya,Madrid,8,8,1968,H,1.429 €,True,,Grup A
+Laia,Romero,58632182Z,Espanya,Sevilla,16,11,1962,D,1.211 €,True,,Grup B
+Marta,Romero,32149349F,Espanya,Bilbao,25,7,1973,D,1.824 €,,True,Grup B
+Anna,López,27247467S,Espanya,Madrid,2,1,1952,D,1.062 €,True,,Grup A
+Eva,Sánchez,17088262F,Espanya,València,18,2,1971,D,2.087 €,,True,Grup B
+Núria,Sánchez Romero,66120457F,Espanya,Sevilla,9,1,1974,D,1.901 €,,True,Grup C
+Oriol,Ferrer,60305889V,Espanya,Madrid,12,3,1995,H,3.257 €,True,,Grup D
+Omar,Zahraoui Zahraoui,78697534Q,Marroc,Rabat,1,7,1983,NC,1.271 €,True,,Grup A
+Oriol,López Romero,20692229R,Espanya,Barcelona,22,5,1983,H,1.135 €,True,,Grup A
+Núria,Romero López,72513763X,Espanya,Bilbao,15,6,1999,NC,1.636 €,True,,Grup B
+Santiago,Rojas,39270256A,Colòmbia,Bogotà,5,4,1987,H,829 €,,True,Grup A
+Toni,Sánchez,24881645Q,Espanya,Bilbao,26,9,1992,H,1.358 €,,True,Grup B
+Arnau,Romero Martínez,31713444D,Espanya,València,7,5,1962,H,1.245 €,True,,Grup A
+Jordi,Romero,63182449W,Espanya,Barcelona,12,12,1950,H,2.253 €,True,,Grup B
+Lea,Fischer,14773153R,Alemanya,Berlín,9,9,1986,D,1.370 €,True,,Grup A
+William,Smith,82046699J,Regne Unit,Manchester,19,5,1997,H,1.405 €,True,,Grup A
+Beatriz,Ferreira Pereira,25997800F,Portugal,Lisboa,25,10,2004,D,2.376 €,True,,Grup D
+Marc,Ferrer,86893272V,Espanya,Madrid,27,4,1954,H,1.636 €,True,,Grup A
+Luisa,González Hernández,93782971H,Mèxic,Ciutat de Mèxic,19,4,2005,D,687 €,,True,Grup A
+Carla,Ferrer,21277706W,Espanya,Barcelona,13,12,1969,D,911 €,,True,Grup A
+Marc,Martínez,69079699D,Espanya,Bilbao,7,7,1988,H,1.965 €,,True,Grup B
+Laia,Castells Ferrer,70418524X,Espanya,Madrid,7,5,1971,D,1.516 €,True,,Grup A
+Marta,López,49712589T,Espanya,Madrid,9,7,2004,D,2.765 €,,True,Grup D
+Pau,Ferrer,90985453R,Espanya,Madrid,24,11,1997,H,2.223 €,,True,Grup B
+Arnau,García Romero,19304110P,Espanya,Madrid,13,12,1970,H,2.316 €,,True,Grup C
+Laia,Sánchez Martínez,15566633F,Espanya,Barcelona,10,2,1971,D,1.427 €,,True,Grup A
+Arnau,Ferrer,11119181K,Espanya,Bilbao,20,5,1961,H,1.345 €,,True,Grup B
+Oriol,Martínez López,51235097D,Espanya,Barcelona,24,6,1980,H,2.064 €,,True,Grup B
+Oriol,Martínez,23333032N,Espanya,València,21,12,1986,H,1.765 €,,True,Grup B
+Eva,López Castells,80657664E,Espanya,Sevilla,4,12,2004,NC,874 €,True,,Grup A
+Oriol,Castells,90914480C,Espanya,Barcelona,3,12,1987,H,1.662 €,,True,Grup A
+Joan,Sánchez,21163199Y,Espanya,Bilbao,18,3,1982,H,1.632 €,,True,Grup A
+Marc,Castells,38279546W,Espanya,Sevilla,24,3,1974,H,1.008 €,,True,Grup A
+Clara,López Castells,68438696L,Espanya,València,9,4,1982,D,3.002 €,,True,Grup D
+Marc,Sánchez Ferrer,84844149K,Espanya,València,1,4,1998,H,968 €,,True,Grup A
+Anna,Sánchez,26365080Y,Espanya,València,5,6,1988,D,965 €,,True,Grup A
+Joan,García,91233007A,Espanya,Sevilla,23,3,2003,NC,1.596 €,True,,Grup B
+Pau,Martínez Romero,55212704B,Espanya,Barcelona,26,7,1986,H,1.739 €,,True,Grup B
+Marc,García Castells,55178117L,Espanya,València,20,12,1983,H,2.912 €,True,,Grup C
+Marc,Castells,23895788L,Espanya,Madrid,3,8,1978,H,1.744 €,,True,Grup C
+Arnau,García Ferrer,23763581C,Espanya,Barcelona,1,6,1979,H,1.716 €,True,,Grup B
+Julieta,Fernández,21674643A,Argentina,Buenos Aires,28,1,1961,D,1.493 €,True,,Grup A
+Antoine,Lefevre,76568322R,França,Lió,17,6,1999,H,1.241 €,,True,Grup A
+Laia,Martínez Romero,59758346F,Espanya,Madrid,28,12,1957,A,728 €,True,,Grup A
+Jordi,Romero García,39104359X,Espanya,Barcelona,17,2,1972,H,1.134 €,,True,Grup A
+Toni,Martínez,75347458Q,Espanya,Bilbao,25,12,1974,H,1.351 €,,True,Grup B
+Anna,García García,56408493L,Espanya,Madrid,8,5,2003,D,847 €,True,,Grup A
+Giulia,Russo,54347378D,Itàlia,Torí,14,6,2005,D,1.399 €,True,,Grup B
+Oriol,Sánchez,24140397D,Espanya,Bilbao,11,9,1989,H,2.115 €,True,,Grup B
+Jordi,Castells,53176287C,Espanya,Bilbao,6,2,1963,H,1.306 €,True,,Grup A
+Núria,Martínez,80044333C,Espanya,Bilbao,10,3,1971,D,988 €,,True,Grup A
+Núria,García,77158777S,Espanya,Bilbao,15,6,2001,D,698 €,True,,Grup A
+Carla,López Martínez,89195587K,Espanya,Madrid,14,10,1962,A,1.549 €,,True,Grup B
+Jordi,Castells,95216936L,Espanya,Sevilla,14,12,1986,A,2.259 €,True,,Grup C
+Anna,Ferrer Sánchez,18457585L,Espanya,Barcelona,25,8,1965,NC,1.437 €,True,,Grup B
+Martina,Gómez,23645745S,Argentina,Buenos Aires,5,12,1963,D,993 €,,True,Grup A
+Luisa,Cruz Ramírez,65159318X,Mèxic,Guadalajara,19,2,1985,D,722 €,,True,Grup A
+Núria,Romero,40039044H,Espanya,Madrid,9,4,1974,D,683 €,True,,Grup A
+Marc,López García,66460797A,Espanya,Bilbao,10,9,2005,H,1.270 €,,True,Grup A
+Anna,Sánchez,69734812N,Espanya,Sevilla,17,7,1971,D,767 €,True,,Grup A
+Núria,García Ferrer,12559305B,Espanya,Bilbao,11,4,1982,D,1.758 €,True,,Grup B
+Núria,Romero,54263997Y,Espanya,Madrid,9,3,1956,D,1.415 €,,True,Grup A
+Clara,Ferrer Castells,87213442J,Espanya,Sevilla,25,7,1998,D,1.393 €,,True,Grup A
+Joan,Martínez Castells,92018667L,Espanya,Madrid,4,10,1985,H,1.139 €,,True,Grup A
+Núria,Ferrer,22118978G,Espanya,València,26,4,1995,D,1.233 €,,True,Grup A
+Pau,Ferrer,78458482P,Espanya,Sevilla,6,3,1997,H,1.428 €,,True,Grup A
+Joan,Romero García,29153728J,Espanya,València,4,3,1956,H,2.216 €,,True,Grup B
+Pau,López Ferrer,82204716Y,Espanya,Bilbao,13,4,1960,H,1.129 €,True,,Grup A
+Oriol,Ferrer,34370425H,Espanya,Madrid,2,4,1974,H,1.324 €,True,,Grup B
+Joan,Romero,80698214F,Espanya,Barcelona,8,1,1985,H,2.390 €,,True,Grup C
+Sophie,Taylor Smith,50261072D,Regne Unit,Londres,26,12,2005,D,1.663 €,,True,Grup B
+Joan,López,43414375Y,Espanya,València,28,3,1995,H,2.152 €,,True,Grup B
+Jordi,Castells López,96250825S,Espanya,Bilbao,12,2,1961,H,2.360 €,True,,Grup C
+Sophie,Brown,74953524F,Regne Unit,Londres,17,5,1983,D,2.189 €,True,,Grup C
+Camila,Cruz Ramírez,59717596Z,Mèxic,Guadalajara,4,10,1994,D,1.824 €,True,,Grup C
+Valentina,Torres Rojas,21977779F,Colòmbia,Medellín,22,10,1957,D,1.441 €,,True,Grup B
+Anna,García,20428037K,Espanya,València,22,11,1976,D,1.551 €,True,,Grup B
+Anna,García,58088881Q,Espanya,Madrid,15,3,1960,D,1.130 €,True,,Grup A
+Joan,Romero García,37902729B,Espanya,Bilbao,25,1,1954,H,2.016 €,,True,Grup C
+Anna,López López,95842086Q,Espanya,València,7,7,1988,D,1.329 €,True,,Grup B
+Pau,Ferrer García,12935907W,Espanya,Barcelona,21,6,1990,H,1.459 €,True,,Grup B
+Florencia,Fernández,23385179B,Argentina,Còrdova,14,10,1979,D,1.209 €,,True,Grup B
+Jordi,López Romero,71312672X,Espanya,Bilbao,17,12,1978,H,1.016 €,,True,Grup A
+Toni,García,23931178W,Espanya,València,4,5,1952,H,1.079 €,,True,Grup A
+Marc,Castells,96487370W,Espanya,Barcelona,15,6,1952,H,2.607 €,True,,Grup C
+Youssef,Bennani El Amrani,77665617B,Marroc,Rabat,5,9,1960,H,1.619 €,,True,Grup A
+Clara,Romero,43437575V,Espanya,Bilbao,5,12,2004,D,1.507 €,,True,Grup A
+Laia,Sánchez,42807414J,Espanya,València,17,7,1967,D,2.255 €,,True,Grup C
+Carlos,Ramírez,56402346W,Mèxic,Guadalajara,21,3,1959,H,1.465 €,True,,Grup B
+Carla,Sánchez Romero,86366713Z,Espanya,Madrid,22,1,2005,NC,892 €,,True,Grup A
+Anna,García,21159286B,Espanya,Barcelona,22,12,1999,D,1.501 €,,True,Grup B
+Anna,Fischer,61558898W,Alemanya,Hamburg,14,5,1985,D,2.443 €,True,,Grup C
+Núria,Martínez Ferrer,38147748A,Espanya,València,4,11,1976,D,1.028 €,,True,Grup A
+Felipe,Gutiérrez,49560214X,Colòmbia,Medellín,13,11,1989,H,1.275 €,,True,Grup A
+Toni,Romero,83600087R,Espanya,Sevilla,26,9,1952,NC,1.222 €,True,,Grup A
+Anna,Sánchez Castells,96650060J,Espanya,Sevilla,1,2,1960,D,2.630 €,,True,Grup D
+Eva,García,86899840T,Espanya,Bilbao,13,9,1978,D,1.117 €,,True,Grup A
+Isla,Taylor Smith,67837921D,Regne Unit,Londres,7,5,1965,D,1.237 €,,True,Grup A
+Inês,Silva,22381649M,Portugal,Lisboa,28,2,1980,D,1.558 €,True,,Grup C
+Oriol,Sánchez,12091945C,Espanya,Barcelona,5,2,1986,H,747 €,,True,Grup A
+Jean,Girard Lefevre,71514483K,França,Lió,28,12,1960,H,930 €,,True,Grup A
+Oriol,Sánchez García,48749091Z,Espanya,València,16,7,1965,H,1.273 €,,True,Grup A
+Marc,Sánchez García,93349542M,Espanya,Sevilla,4,3,1974,A,1.611 €,True,,Grup C
+Toni,Romero Romero,48597672J,Espanya,Madrid,15,2,1984,A,1.758 €,True,,Grup B
+Clara,Romero García,29019539A,Espanya,València,8,2,1989,D,1.246 €,True,,Grup A
+Toni,López,98430241N,Espanya,Bilbao,3,6,1956,H,857 €,,True,Grup A
+Laia,Romero,89759837X,Espanya,Barcelona,17,9,1966,D,952 €,True,,Grup A
+Rui,Oliveira,88420532P,Portugal,Lisboa,9,3,1951,H,1.894 €,,True,Grup C
+Laia,Romero López,77573960D,Espanya,Sevilla,23,6,2005,D,2.360 €,,True,Grup C
+Núria,García Castells,69520375Z,Espanya,Sevilla,23,12,1986,D,1.259 €,,True,Grup A
+Marc,Castells Castells,75634877M,Espanya,Bilbao,18,12,1955,H,1.330 €,True,,Grup A
+Toni,Romero Martínez,58558026P,Espanya,Bilbao,15,9,1980,H,1.221 €,,True,Grup A
+Andrés,Hernández Hernández,94364172S,Mèxic,Ciutat de Mèxic,11,12,1983,H,2.172 €,,True,Grup C
+Salma,Zahraoui,86656444H,Marroc,Casablanca,18,4,1999,D,1.172 €,,True,Grup B
+Eva,Martínez López,46192881X,Espanya,Barcelona,11,4,1958,D,1.350 €,,True,Grup B
+Rui,Silva Silva,85620401P,Portugal,Lisboa,6,5,1958,H,1.267 €,,True,Grup B
+Élise,Moreau,90836935Y,França,París,9,10,1959,D,2.107 €,True,,Grup C
+Jordi,Romero,67475809B,Espanya,Barcelona,6,9,1952,H,1.673 €,True,,Grup A
+Oriol,García Castells,21511240Y,Espanya,Barcelona,8,5,1987,H,917 €,,True,Grup A
+Carla,Romero,13600054Y,Espanya,Madrid,18,3,1964,D,1.678 €,True,,Grup B
+Joan,López García,25564518R,Espanya,Bilbao,21,11,1987,H,2.629 €,,True,Grup C
+William,Taylor,14371347B,Regne Unit,Londres,11,10,1957,H,1.017 €,,True,Grup A
+Arnau,Martínez,80867475E,Espanya,Bilbao,9,10,1996,H,1.172 €,True,,Grup A
+Chloé,Girard Girard,54542153E,França,Marsella,17,12,1956,D,1.433 €,,True,Grup A
+Laia,Ferrer,43630705N,Espanya,Barcelona,2,2,1953,D,1.393 €,True,,Grup B
+Felipe,Gutiérrez,93060003K,Colòmbia,Medellín,17,9,1953,H,1.142 €,True,,Grup A
+Élise,Moreau Moreau,30892443R,França,París,10,6,1992,D,1.378 €,,True,Grup A
+Toni,Romero,88020602R,Espanya,Barcelona,23,8,2001,H,2.187 €,,True,Grup B
+Clara,Romero López,88633819Y,Espanya,Bilbao,11,1,1955,A,2.371 €,True,,Grup C
+Andrés,Ramírez Hernández,26804172P,Mèxic,Ciutat de Mèxic,2,9,1956,H,1.457 €,True,,Grup A
+Toni,Castells,92573413K,Espanya,Barcelona,20,10,1984,H,1.832 €,,True,Grup C
+Marta,López,47075714S,Espanya,Madrid,13,3,1999,D,1.186 €,,True,Grup B
+Jean,Dubois,58404017Q,França,Lió,13,2,1960,H,1.001 €,True,,Grup A
+Felix,Schmidt Schmidt,96890044J,Alemanya,Hamburg,20,10,1951,H,1.971 €,,True,Grup C
+Carla,Ferrer Martínez,22942395H,Espanya,València,3,5,1992,D,1.714 €,,True,Grup B
+Toni,López,59083606S,Espanya,Sevilla,20,10,1950,NC,1.538 €,,True,Grup A
+Laia,López,25874228C,Espanya,Barcelona,8,3,1970,D,1.315 €,,True,Grup A
+Toni,Sánchez,44074013Q,Espanya,Madrid,13,3,1976,NC,1.717 €,True,,Grup B
+Marta,Ferrer Ferrer,25161375F,Espanya,Sevilla,1,6,1951,D,1.216 €,,True,Grup B
+Joan,García,52145541P,Espanya,Sevilla,11,4,1959,H,971 €,,True,Grup A
+Laia,Ferrer Martínez,69760120X,Espanya,Barcelona,11,11,1980,D,682 €,,True,Grup A
+Jordi,García,82947791W,Espanya,Barcelona,23,5,1984,H,1.699 €,True,,Grup C
+Clara,Sánchez López,89253307W,Espanya,Bilbao,1,8,1952,D,1.217 €,,True,Grup A
