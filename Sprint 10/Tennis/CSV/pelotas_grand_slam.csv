@@ -1,0 +1,5 @@
+torneo,marca_pelota,superficie,presion,durabilidad,peso_aprox,diametro_aprox
+australian open,dunlop ao,hard (plexicushion -> greenset),"alta, diseñada para clima caluroso",media-alta,56-59.4 g,6.54–6.86 cm
+roland garros,dunlop fort clay court,clay,"media, adaptada a tierra batida",media,56-59.4 g,6.54–6.86 cm
+wimbledon,slazenger wimbledon,grass,"alta, para bote bajo en césped",media-baja (se desgasta rápido en césped),56-59.4 g,6.54–6.86 cm
+us open,wilson us open extra duty,hard (deco turf -> laykold),"alta, diseñada para más durabilidad",alta,56-59.4 g,6.54–6.86 cm

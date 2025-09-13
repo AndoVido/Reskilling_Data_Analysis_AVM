@@ -1,0 +1,101 @@
+tournament,year,attendance,event_capacity,utilization_pct,age_pct_young,age_pct_adult,age_pct_senior,sex_pct_male,sex_pct_female,region,surface,tv_market_focus,night_session
+australian_open,2000,883968,900000,98.21866666666666,0.29,0.54,0.17,0.52,0.48,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2000,466951,600000,77.82516666666666,0.35,0.53,0.13,0.53,0.47,europe,clay,europe prime time,no
+wimbledon,2000,394217,500000,78.8434,0.3,0.49,0.22,0.54,0.46,europe,grass,europe daytime/evening,no
+us_open,2000,660211,700000,94.31585714285714,0.33,0.49,0.17,0.47,0.53,north_america,hard,us prime time / europe late night,yes
+australian_open,2001,826387,900000,91.82077777777778,0.26,0.53,0.21,0.51,0.49,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2001,587628,600000,97.938,0.29,0.55,0.17,0.54,0.46,europe,clay,europe prime time,no
+wimbledon,2001,492741,500000,98.5482,0.27,0.5,0.23,0.45,0.55,europe,grass,europe daytime/evening,no
+us_open,2001,558515,700000,79.78785714285715,0.32,0.52,0.16,0.55,0.45,north_america,hard,us prime time / europe late night,yes
+australian_open,2002,766024,900000,85.11377777777778,0.29,0.5,0.22,0.47,0.53,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2002,475279,600000,79.21316666666667,0.3,0.47,0.23,0.52,0.48,europe,clay,europe prime time,no
+wimbledon,2002,442335,500000,88.467,0.33,0.52,0.15,0.48,0.52,europe,grass,europe daytime/evening,no
+us_open,2002,702573,700000,100.36757142857142,0.33,0.49,0.18,0.48,0.52,north_america,hard,us prime time / europe late night,yes
+australian_open,2003,864429,900000,96.04766666666666,0.26,0.47,0.27,0.45,0.55,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2003,595196,600000,99.19933333333333,0.32,0.52,0.16,0.53,0.47,europe,clay,europe prime time,no
+wimbledon,2003,446500,500000,89.3,0.31,0.46,0.23,0.46,0.54,europe,grass,europe daytime/evening,no
+us_open,2003,669356,700000,95.62228571428571,0.3,0.51,0.2,0.53,0.47,north_america,hard,us prime time / europe late night,yes
+australian_open,2004,853144,900000,94.79377777777778,0.31,0.51,0.19,0.48,0.52,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2004,459191,600000,76.53183333333334,0.29,0.47,0.23,0.49,0.51,europe,clay,europe prime time,no
+wimbledon,2004,507034,500000,101.4068,0.27,0.46,0.27,0.48,0.52,europe,grass,europe daytime/evening,no
+us_open,2004,591347,700000,84.47814285714286,0.32,0.51,0.18,0.53,0.47,north_america,hard,us prime time / europe late night,yes
+australian_open,2005,862908,900000,95.87866666666667,0.29,0.53,0.18,0.47,0.53,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2005,458629,600000,76.43816666666666,0.26,0.52,0.22,0.5,0.5,europe,clay,europe prime time,no
+wimbledon,2005,403182,500000,80.6364,0.3,0.47,0.23,0.52,0.48,europe,grass,europe daytime/evening,no
+us_open,2005,624879,700000,89.26842857142857,0.29,0.48,0.23,0.51,0.49,north_america,hard,us prime time / europe late night,yes
+australian_open,2006,781961,900000,86.88455555555555,0.26,0.46,0.28,0.55,0.45,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2006,620907,600000,103.4845,0.32,0.48,0.2,0.55,0.45,europe,clay,europe prime time,no
+wimbledon,2006,497714,500000,99.5428,0.32,0.49,0.18,0.48,0.52,europe,grass,europe daytime/evening,no
+us_open,2006,551785,700000,78.82642857142858,0.34,0.5,0.16,0.47,0.53,north_america,hard,us prime time / europe late night,yes
+australian_open,2007,768214,900000,85.35711111111111,0.31,0.47,0.22,0.54,0.46,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2007,594744,600000,99.124,0.32,0.49,0.18,0.51,0.49,europe,clay,europe prime time,no
+wimbledon,2007,469091,500000,93.81819999999999,0.31,0.46,0.23,0.49,0.51,europe,grass,europe daytime/evening,no
+us_open,2007,541211,700000,77.31585714285714,0.3,0.48,0.22,0.46,0.54,north_america,hard,us prime time / europe late night,yes
+australian_open,2008,714165,900000,79.35166666666666,0.31,0.47,0.22,0.54,0.46,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2008,563464,600000,93.91066666666667,0.28,0.51,0.21,0.45,0.55,europe,clay,europe prime time,no
+wimbledon,2008,527084,500000,105.4168,0.3,0.53,0.17,0.46,0.54,europe,grass,europe daytime/evening,no
+us_open,2008,637233,700000,91.03328571428571,0.3,0.54,0.16,0.51,0.49,north_america,hard,us prime time / europe late night,yes
+australian_open,2009,817293,900000,90.81033333333333,0.28,0.48,0.24,0.5,0.5,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2009,538526,600000,89.75433333333334,0.25,0.53,0.22,0.54,0.46,europe,clay,europe prime time,no
+wimbledon,2009,403166,500000,80.6332,0.31,0.46,0.23,0.52,0.48,europe,grass,europe daytime/evening,no
+us_open,2009,594572,700000,84.93885714285713,0.32,0.52,0.16,0.53,0.47,north_america,hard,us prime time / europe late night,yes
+australian_open,2010,718171,900000,79.79677777777778,0.34,0.47,0.19,0.45,0.55,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2010,560870,600000,93.47833333333332,0.29,0.53,0.18,0.53,0.47,europe,clay,europe prime time,no
+wimbledon,2010,431022,500000,86.2044,0.35,0.48,0.18,0.5,0.5,europe,grass,europe daytime/evening,no
+us_open,2010,590327,700000,84.33242857142858,0.34,0.47,0.19,0.45,0.55,north_america,hard,us prime time / europe late night,yes
+australian_open,2011,809910,900000,89.99000000000001,0.35,0.54,0.11,0.52,0.48,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2011,623770,600000,103.96166666666666,0.34,0.5,0.16,0.48,0.52,europe,clay,europe prime time,no
+wimbledon,2011,501599,500000,100.3198,0.32,0.49,0.2,0.46,0.54,europe,grass,europe daytime/evening,no
+us_open,2011,696825,700000,99.54642857142856,0.28,0.54,0.18,0.47,0.53,north_america,hard,us prime time / europe late night,yes
+australian_open,2012,725140,900000,80.57111111111112,0.33,0.47,0.2,0.47,0.53,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2012,571278,600000,95.21300000000001,0.34,0.47,0.19,0.48,0.52,europe,clay,europe prime time,no
+wimbledon,2012,503409,500000,100.6818,0.35,0.5,0.15,0.46,0.54,europe,grass,europe daytime/evening,no
+us_open,2012,540596,700000,77.228,0.27,0.46,0.26,0.52,0.48,north_america,hard,us prime time / europe late night,yes
+australian_open,2013,726300,900000,80.7,0.3,0.52,0.18,0.51,0.49,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2013,498594,600000,83.099,0.33,0.52,0.15,0.52,0.48,europe,clay,europe prime time,no
+wimbledon,2013,404919,500000,80.98379999999999,0.26,0.54,0.19,0.49,0.51,europe,grass,europe daytime/evening,no
+us_open,2013,603492,700000,86.21314285714286,0.3,0.52,0.18,0.55,0.45,north_america,hard,us prime time / europe late night,yes
+australian_open,2014,773406,900000,85.934,0.34,0.45,0.21,0.51,0.49,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2014,579910,600000,96.65166666666667,0.26,0.46,0.28,0.49,0.51,europe,clay,europe prime time,no
+wimbledon,2014,534492,500000,106.8984,0.31,0.54,0.15,0.53,0.47,europe,grass,europe daytime/evening,no
+us_open,2014,640598,700000,91.514,0.33,0.45,0.22,0.46,0.54,north_america,hard,us prime time / europe late night,yes
+australian_open,2015,925914,900000,102.87933333333332,0.33,0.47,0.2,0.5,0.5,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2015,575855,600000,95.97583333333334,0.34,0.51,0.15,0.49,0.51,europe,clay,europe prime time,no
+wimbledon,2015,444061,500000,88.81219999999999,0.29,0.52,0.19,0.54,0.46,europe,grass,europe daytime/evening,no
+us_open,2015,638927,700000,91.27528571428572,0.27,0.47,0.25,0.52,0.48,north_america,hard,us prime time / europe late night,yes
+australian_open,2016,924128,900000,102.68088888888889,0.26,0.46,0.28,0.51,0.49,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2016,491553,600000,81.9255,0.33,0.48,0.19,0.46,0.54,europe,clay,europe prime time,no
+wimbledon,2016,529566,500000,105.91319999999999,0.27,0.48,0.25,0.47,0.53,europe,grass,europe daytime/evening,no
+us_open,2016,566829,700000,80.97557142857143,0.25,0.46,0.29,0.47,0.53,north_america,hard,us prime time / europe late night,yes
+australian_open,2017,712853,900000,79.2058888888889,0.31,0.52,0.17,0.49,0.51,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2017,524484,600000,87.414,0.3,0.54,0.16,0.54,0.46,europe,clay,europe prime time,no
+wimbledon,2017,394492,500000,78.8984,0.27,0.47,0.26,0.47,0.53,europe,grass,europe daytime/evening,no
+us_open,2017,666887,700000,95.26957142857142,0.29,0.45,0.25,0.49,0.51,north_america,hard,us prime time / europe late night,yes
+australian_open,2018,845804,900000,93.97822222222221,0.26,0.53,0.21,0.46,0.54,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2018,638664,600000,106.444,0.26,0.53,0.21,0.54,0.46,europe,clay,europe prime time,no
+wimbledon,2018,540725,500000,108.145,0.33,0.53,0.14,0.51,0.49,europe,grass,europe daytime/evening,no
+us_open,2018,713378,700000,101.91114285714286,0.26,0.5,0.23,0.5,0.5,north_america,hard,us prime time / europe late night,yes
+australian_open,2019,940993,900000,104.55477777777777,0.3,0.49,0.22,0.51,0.49,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2019,516886,600000,86.14766666666667,0.26,0.5,0.24,0.49,0.51,europe,clay,europe prime time,no
+wimbledon,2019,425461,500000,85.09219999999999,0.29,0.49,0.23,0.48,0.52,europe,grass,europe daytime/evening,no
+us_open,2019,627665,700000,89.66642857142857,0.32,0.48,0.2,0.54,0.46,north_america,hard,us prime time / europe late night,yes
+australian_open,2020,959310,900000,106.59,0.3,0.48,0.22,0.5,0.5,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2020,626850,600000,104.47500000000001,0.32,0.53,0.15,0.5,0.5,europe,clay,europe prime time,no
+wimbledon,2020,488735,500000,97.747,0.28,0.52,0.2,0.47,0.53,europe,grass,europe daytime/evening,no
+us_open,2020,697743,700000,99.67757142857143,0.34,0.46,0.2,0.51,0.49,north_america,hard,us prime time / europe late night,yes
+australian_open,2021,730104,900000,81.12266666666666,0.32,0.46,0.22,0.54,0.46,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2021,494672,600000,82.44533333333334,0.35,0.53,0.12,0.51,0.49,europe,clay,europe prime time,yes
+wimbledon,2021,513074,500000,102.6148,0.33,0.54,0.13,0.48,0.52,europe,grass,europe daytime/evening,no
+us_open,2021,676170,700000,96.59571428571428,0.26,0.51,0.23,0.47,0.53,north_america,hard,us prime time / europe late night,yes
+australian_open,2022,863948,900000,95.99422222222222,0.31,0.5,0.2,0.5,0.5,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2022,613356,600000,102.226,0.33,0.5,0.17,0.51,0.49,europe,clay,europe prime time,yes
+wimbledon,2022,537331,500000,107.4662,0.26,0.46,0.28,0.46,0.54,europe,grass,europe daytime/evening,no
+us_open,2022,692329,700000,98.90414285714286,0.29,0.53,0.18,0.52,0.48,north_america,hard,us prime time / europe late night,yes
+australian_open,2023,800275,900000,88.91944444444444,0.34,0.53,0.13,0.48,0.52,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2023,539270,600000,89.87833333333334,0.28,0.47,0.25,0.46,0.54,europe,clay,europe prime time,yes
+wimbledon,2023,539128,500000,107.82560000000001,0.29,0.49,0.22,0.52,0.48,europe,grass,europe daytime/evening,no
+us_open,2023,670620,700000,95.80285714285715,0.34,0.53,0.13,0.5,0.5,north_america,hard,us prime time / europe late night,yes
+australian_open,2024,813894,900000,90.43266666666666,0.35,0.52,0.13,0.55,0.45,oceania,hard,global (eu+us morning/evening),yes
+roland_garros,2024,493949,600000,82.32483333333333,0.34,0.51,0.15,0.46,0.54,europe,clay,europe prime time,yes
+wimbledon,2024,485474,500000,97.0948,0.32,0.45,0.23,0.5,0.5,europe,grass,europe daytime/evening,no
+us_open,2024,731853,700000,104.55042857142858,0.28,0.5,0.22,0.49,0.51,north_america,hard,us prime time / europe late night,yes
